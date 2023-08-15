@@ -1,0 +1,1655 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+	<head>
+
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29044715-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29044715-1');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7834090572148582"
+     crossorigin="anonymous"></script>
+<script src="https://cdn.adapex.io/hb/aaw.tnke2.js" async></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+var slot = googletag.defineOutOfPageSlot(
+'/22815767462/TNKE_Vignette',
+googletag.enums.OutOfPageFormat.INTERSTITIAL);
+if (slot) slot.addService(googletag.pubads());
+googletag.enableServices();
+googletag.display(slot);
+});
+</script>
+	
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.13 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Tank Encyclopedia - The Online Tank Museum</title>
+	<meta name="description" content="All about the tactics, technologies, and evolution of the tank worldwide, from World War I to the Atomic and Digital Ages." />
+	<link rel="canonical" href="https://tanks-encyclopedia.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Tank Encyclopedia - The Online Tank Museum" />
+	<meta property="og:description" content="All about the tactics, technologies, and evolution of the tank worldwide, from World War I to the Atomic and Digital Ages." />
+	<meta property="og:url" content="https://tanks-encyclopedia.com/" />
+	<meta property="og:site_name" content="Tank Encyclopedia" />
+	<meta property="article:publisher" content="https://www.facebook.com/tanksencyclopedia/" />
+	<meta property="article:modified_time" content="2023-06-05T00:41:25+00:00" />
+	<meta property="og:image" content="https://tanks-encyclopedia.com/wp-content/uploads/2020/09/maxresdefault-9-1024x576.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@tanksenc" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://tanks-encyclopedia.com/","url":"https://tanks-encyclopedia.com/","name":"Tank Encyclopedia - The Online Tank Museum","isPartOf":{"@id":"https://tanks-encyclopedia.com/#website"},"about":{"@id":"https://tanks-encyclopedia.com/#organization"},"primaryImageOfPage":{"@id":"https://tanks-encyclopedia.com/#primaryimage"},"image":{"@id":"https://tanks-encyclopedia.com/#primaryimage"},"thumbnailUrl":"https://tanks-encyclopedia.com/wp-content/uploads/2020/09/maxresdefault-9-1024x576.jpg","datePublished":"2014-07-15T12:23:04+00:00","dateModified":"2023-06-05T00:41:25+00:00","description":"All about the tactics, technologies, and evolution of the tank worldwide, from World War I to the Atomic and Digital Ages.","breadcrumb":{"@id":"https://tanks-encyclopedia.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://tanks-encyclopedia.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tanks-encyclopedia.com/#primaryimage","url":"https://tanks-encyclopedia.com/wp-content/uploads/2020/09/maxresdefault-9-1024x576.jpg","contentUrl":"https://tanks-encyclopedia.com/wp-content/uploads/2020/09/maxresdefault-9-1024x576.jpg"},{"@type":"BreadcrumbList","@id":"https://tanks-encyclopedia.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://tanks-encyclopedia.com/#website","url":"https://tanks-encyclopedia.com/","name":"Tank Encyclopedia","description":"The Online Tank Museum","publisher":{"@id":"https://tanks-encyclopedia.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://tanks-encyclopedia.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://tanks-encyclopedia.com/#organization","name":"Tank Encyclopedia","url":"https://tanks-encyclopedia.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tanks-encyclopedia.com/#/schema/logo/image/","url":"https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border.png","contentUrl":"https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border.png","width":292,"height":292,"caption":"Tank Encyclopedia"},"image":{"@id":"https://tanks-encyclopedia.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/tanksencyclopedia/","https://twitter.com/tanksenc","https://www.instagram.com/tankencyclo/","https://www.youtube.com/channel/UC2tZSN6WSAtzKLalKbflBLg"]}]}</script>
+	<meta name="google-site-verification" content="911ca3ea0b23902" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='stylesheet' id='wp-block-library-css' href='https://tanks-encyclopedia.com/wp-includes/css/dist/block-library/style.min.css?ver=b83f79ee4c56df548cbba7f349d0a40b' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #e22658;--wp--preset--color--primary: #000000;--wp--preset--color--secondary: #6d6d6d;--wp--preset--color--subtle-background: #dbdbdb;--wp--preset--color--background: #ffffff;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 26.25px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 21px;--wp--preset--font-size--larger: 32px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpos-slick-style-css' href='https://tanks-encyclopedia.com/wp-content/plugins/wp-responsive-recent-post-slider/assets/css/slick.css?ver=3.3.1' media='all' />
+<link rel='stylesheet' id='wppsac-public-style-css' href='https://tanks-encyclopedia.com/wp-content/plugins/wp-responsive-recent-post-slider/assets/css/recent-post-style.css?ver=3.3.1' media='all' />
+<link rel='stylesheet' id='twentytwenty-style-css' href='https://tanks-encyclopedia.com/wp-content/themes/twentytwenty/style.css?ver=2.1' media='all' />
+<style id='twentytwenty-style-inline-css'>
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #e22658; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #e22658; }button,.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #e22658; }.fill-children-accent,.fill-children-accent * { fill: #e22658; }:root .has-background-color,button,.button,.faux-button,.wp-block-button__link,.wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.wp-block-button,.comment-reply-link,.has-background.has-primary-background-color:not(.has-text-color),.has-background.has-primary-background-color *:not(.has-text-color),.has-background.has-accent-background-color:not(.has-text-color),.has-background.has-accent-background-color *:not(.has-text-color) { color: #ffffff; }:root .has-background-background-color { background-color: #ffffff; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #6d6d6d; }:root .has-secondary-background-color { background-color: #6d6d6d; }pre,fieldset,input,textarea,table,table *,hr { border-color: #dbdbdb; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #dbdbdb; }.wp-block-table.is-style-stripes { border-bottom-color: #dbdbdb; }.wp-block-latest-posts.is-grid li { border-top-color: #dbdbdb; }:root .has-subtle-background-color { color: #dbdbdb; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a,#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #eb9db2; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #eb9db2; }.social-icons a,body:not(.overlay-header) .primary-menu ul,.header-footer-group button,.header-footer-group .button,.header-footer-group .faux-button,.header-footer-group .wp-block-button:not(.is-style-outline) .wp-block-button__link,.header-footer-group .wp-block-file__button,.header-footer-group input[type="button"],.header-footer-group input[type="reset"],.header-footer-group input[type="submit"] { color: #424732; }#site-header,.footer-nav-widgets-wrapper,#site-footer,.menu-modal,.menu-modal-inner,.search-modal-inner,.archive-header,.singular .entry-header,.singular .featured-media:before,.wp-block-pullquote:before { background-color: #424732; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #ffffff; }body:not(.overlay-header) .primary-menu ul { background-color: #ffffff; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #ffffff; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #ffffff; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #b6b9ab; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #575c41; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #575c41; }
+</style>
+<link rel='stylesheet' id='twentytwenty-print-style-css' href='https://tanks-encyclopedia.com/wp-content/themes/twentytwenty/print.css?ver=2.1' media='print' />
+<script src='https://tanks-encyclopedia.com/wp-content/themes/twentytwenty/assets/js/index.js?ver=2.1' id='twentytwenty-js-js' async></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_init.js?ver=1.1' id='tec-init-js'></script>
+	<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+	<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border.png" />
+<meta name="msapplication-TileImage" content="https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border.png" />
+		<style id="wp-custom-css">
+			body {
+	font-family: 'Allerta Stencil', sans-serif !important;
+		letter-spacing: -0.015em;
+	text-align: left;
+}
+p.b {
+  font-family: Arial, Helvetica, sans-serif;
+		font-size: .1rem !important;
+}
+svg, img, embed, object {
+    display: inline !important;
+}
+.imgmargin {
+margin: .9em !important;
+}
+.entry-content {
+  font-size: 2.rem;
+	font-weight: 200;
+	text-align: justify;
+}
+em, i, q, dfn {
+  font-style: italic;
+	font-size: 2.rem;
+	margin-top: 0 !important;
+	padding-bottom: 0 !important;
+	line-height: 0 !important;
+	text-align: justify !important;
+}
+.singular .entry-header {
+	/*background-image: url("images/BG-khaki.jpg");*/
+	background-color:#6e7653;
+	padding: 2rem 0;
+}
+.singular:not(.overlay-header) .entry-header .post-meta a {
+    color: 
+    #fff;
+}
+.singular .entry-header .post-meta {
+    color: 
+    #f6dd95;
+}
+.section-inner {
+	border:0px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    width: calc(95% - 4rem);
+}
+.wp-block-embed figcaption {
+	margin-top:.5em;margin-bottom:1em;
+}
+.wp-caption-text {
+	text-align:center;
+}
+figcaption {	
+	position:relative;
+	bottom:0;
+	max-width:100% !important;
+	padding-left:10%;
+	padding-right:10%;
+	max-height:100%;
+	overflow:visible;
+	text-align:justify;
+	font-size: 1em;
+}
+.wp-caption {
+	position:relative !important;
+	text-align:center;
+	width:auto !important;
+	max-height:100%;
+	overflow:hidden;
+  margin: auto;
+	padding:0;
+	bottom:1em;
+}
+.singular .featured-media-inner {
+    position: relative;
+    left: calc(50% - 50vw);
+}
+.entry-content p, .entry-content ol, .entry-content ul, .entry-content dl, .entry-content dt {
+  font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: normal;
+}
+body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote::before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
+    color: #f6dd95;
+}
+.color-accent, .color-accent-hover:hover, .color-accent-hover:focus, :root .has-accent-color, .has-drop-cap:not(:focus)::first-letter, .wp-block-button.is-style-outline, a {
+    color: 
+    #424732;
+}
+.site-description, .entry-header {
+    color:
+    #f6dd95;
+}
+.toggle-inner .toggle-text a {
+    color: 
+    #f6dd95 !important;
+}
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+body:not(.overlay-header) .toggle-inner .toggle-text {
+    color: 
+    #f6dd95 !important;
+	}
+.header-footer-group, body:not(.overlay-header) #site-header .toggle, .menu-modal .toggle {
+    color:
+    #f6dd95;
+}
+.menu-modal-inner {
+        background-color: #424732;
+}
+.singular .featured-media::before {
+    background: 
+    #424732 !important;
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 50%;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+.primary-menu ul a {
+    background: #424732 !important;
+    border: none;
+    color: #f6dd95;
+    display: block;
+    padding: .2rem .2rem;
+    transition: background-color 0.15s linear;
+}
+body:not(.overlay-header) .primary-menu > li > ul::after {
+    border-bottom-color:
+    #424732;
+		border:1px solid #f6dd95;
+}
+.primary-menu ul::after {
+    border: 0.8rem solid
+    #f6dd95;
+    right: 1.8rem;
+	text-shadow: 1px 1px 3px #fff;
+}
+body:not(.overlay-header) .primary-menu ul {
+    background-color:
+    #424732;
+}
+button:not(.toggle), .button, .faux-button, .wp-block-button__link, .wp-block-file .wp-block-file__button, input[type="button"], input[type="reset"], input[type="submit"], .bg-accent, .bg-accent-hover:hover, .bg-accent-hover:focus, :root .has-accent-background-color, .comment-reply-link {
+    background-color: 
+    #424732;
+}
+.footer-nav-widgets-wrapper {
+    background-color: 
+    #424732;
+	color:#f6dd95;
+}
+h1.entry-title, h2.entry-title, h3.entry-title, h4.entry-title,   h1.entry-content, h2.entry-content, h3.entry-content, h4.entry-content {
+	color:inherit;
+}
+	h1.entry-title {
+	margin: 1rem auto 1.5rem;
+	font-size: 5rem;
+	text-shadow: 2px 2px 6px #000;
+}
+	h2.entry-title, h2.heading-size-2 {
+	margin: 2rem auto 1rem;
+	font-size: 3rem;
+	text-shadow: 1px 1px 3px #fff;
+}
+h2, .heading-size-2 {
+    font-size: 3rem;
+}
+	h3, h3.entry-title, h3.heading-size-3 {
+	margin: 1.5rem auto 1rem;
+	font-size: 2.5rem !important;
+	text-shadow: 1px 1px 2px #fff;
+}
+	h4, h4.entry-title, h4.heading-size-4 {
+	margin: 1.5rem auto 0.8rem;
+	font-size: 2rem !important;
+	text-shadow: 1px 1px 1px #fff;
+}	
+menu-modal.cover-modal {
+    background: 
+    rgba(66, 71, 50, 0);
+}
+menu-modal-inner {
+    background: #fff !important;
+	box-shadow: 0 0 4rem 0 rgba(0, 0, 0, 0.5);
+	}
+.header-inner {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+	    background: 
+    rgba(66, 71, 50, 0);
+		color:#ff0000;
+}
+#site-header {
+    background: 
+    #424732;
+    position: relative;
+}
+.menu-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+	    background: 
+    #424732;
+}
+.size-post-thumbnail {
+    display: block !important;
+}	
+.comment-reply-title {
+    font-size: 3rem;
+    line-height: 1.2;
+    margin-bottom: 3rem;
+}
+.responsive {
+  max-width: 100%;
+	display: inline;
+}
+.toggle-icon {
+    display: block;
+    overflow: hidden;
+	color:#f6dd95;
+}
+.nav-toggle .toggle-icon, .nav-toggle svg {
+    height: 2rem;
+    width: -1rem;
+}
+.entry-content > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
+    max-width: 120rem !important;
+    width: calc(90% - 4rem);
+}
+.spoiler { background: #eaeaea; }
+.spoiler:hover { 
+    background: transparent; 
+}
+button, input[type="button"], input[type="submit"] {
+    background-color: #f6dd95;
+    border: 0;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    font-size: .875rem;
+    font-weight: 300;
+    line-height: .5em;
+    padding: 1em 2em;
+    text-shadow: none;
+    -webkit-transition: background .2s;
+    transition: background .2s;
+}
+	.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.entry-content img, 
+.entry-content iframe, 
+.entry-content object, 
+.entry-content embed {
+        max-width: 100%;
+}
+
+/*The following Code is written by wordpress user jeffgaydos. Contact Jeff_G#1234 on discord if issues arise.*/
+.site-logo.faux-heading {
+	display: inline-block;
+}
+
+.site-description {
+	display: inline-block;
+	word-break: break-word;
+	min-width: 100px;
+}
+
+.header-titles .tec-donation {
+		position: relative;
+		top: 8px;
+}
+
+@media(max-width: 1550px) {
+	.site-description {
+		width: 10vh;
+	}
+	.header-navigation-wrapper {
+		width: 50%;	
+	}
+}
+
+@media(max-width: 1100px) {
+	.header-navigation-wrapper {
+		width: 45%;	
+	}
+}
+
+@media(max-width: 1000px) {
+	.site-description {
+		position: relative;
+		top: -15px;
+	}
+	
+	.header-titles .tec-donation {
+		position: relative;
+		top: -20px;
+	}
+}
+
+@media(max-width: 700px) {
+	.site-description {
+		display: none;
+	}
+	
+	.header-titles .tec-donation {
+		position: relative;
+		top: -5px;
+	}
+}
+
+@media(max-width: 440px) {
+	.header-titles .tec-donation img {
+		height: 30px !important;
+		width: auto !important;
+		position: relative !important;
+		top: -8px !important;
+		padding: 0px 2px 2px 10px !important;
+	}
+	
+	.header-titles .tec-donation {
+		
+	}
+	
+	.tec_dm_div {
+		padding-left: 15px !important;
+		width: 6rem !important;
+	}
+	
+	.tec_dm_button {
+		width: 6rem !important;
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	
+	.tec_dm_button p {
+		font-size: 15px !important;
+	}
+}
+
+@media(max-width: 355px) {
+	.header-titles .tec-donation {
+		display: none;
+	}
+}
+
+/*Gallery Styling*/
+.tec_g_pos_ind.current, .tec_g_pos_ind.hovered {
+	background-color: #f6dd95 !important;
+}
+
+/*Additional Misc. Styling*/
+#cookie-law-info-bar {
+	z-index: 2147483641 !important;
+}		</style>
+			</head>
+	<body data-rsssl=1 class="home page-template page-template-templates page-template-template-full-width page-template-templatestemplate-full-width-php page page-id-605 custom-background wp-custom-logo wp-embed-responsive singular has-full-width-content enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments show-avatars template-full-width footer-top-visible">
+		<a class="skip-link screen-reader-text" href="#site-content">Skip to the content</a>		<header id="site-header" class="header-footer-group">
+			<div class="header-inner section-inner">
+				<div class="header-titles-wrapper">
+											<button class="toggle search-toggle mobile-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+							<span class="toggle-inner">
+								<span class="toggle-icon">
+									<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>								</span>
+								<span class="toggle-text">Search</span>
+							</span>
+						</button><!-- .search-toggle -->
+
+					
+					<div class="header-titles">
+
+						<div class="site-logo faux-heading"><a href="https://tanks-encyclopedia.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="146" height="146" style="height: 146px;" src="https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border.png" class="custom-logo" alt="Tank Encyclopedia" decoding="async" fetchpriority="high" srcset="https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border.png 292w, https://tanks-encyclopedia.com/wp-content/uploads/2020/01/logo-big-border-150x150.png 150w" sizes="(max-width: 292px) 100vw, 292px" /></a><span class="screen-reader-text">Tank Encyclopedia</span></div><div class="site-description">The Online Tank Museum</div><!-- .site-description -->
+					</div><!-- .header-titles -->
+
+					<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal"  data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+						<span class="toggle-inner">
+							<span class="toggle-icon">
+								<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)" /></svg>							</span>
+							<span class="toggle-text">Menu</span>
+						</span>
+					</button><!-- .nav-toggle -->
+
+				</div><!-- .header-titles-wrapper -->
+
+				<div class="header-navigation-wrapper">
+
+					
+							<nav class="primary-menu-wrapper" aria-label="Horizontal">
+
+								<ul class="primary-menu reset-list-style">
+
+								<li id="menu-item-120112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120112"><a href="https://tanks-encyclopedia.com/world-war-i-tanks.php">World War One</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-119490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119490"><a href="https://tanks-encyclopedia.com/ww1/austria-hungary/austro-hungarian_armour.php">Austria-Hungary</a></li>
+	<li id="menu-item-130501" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-130501"><a href="https://tanks-encyclopedia.com/auto-mixte-automitrailleuse-blindee/">Belgium</a></li>
+	<li id="menu-item-120136" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120136"><a href="https://tanks-encyclopedia.com/ww1-canada-saczeany-apc/">Canada</a></li>
+	<li id="menu-item-133497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133497"><a href="https://tanks-encyclopedia.com/ww1-tanks/kingdom-of-denmark-wwi/">Denmark</a></li>
+	<li id="menu-item-119492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119492"><a href="https://tanks-encyclopedia.com/ww1/fr/french_wwi_tanks.php">France</a></li>
+	<li id="menu-item-119493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119493"><a href="https://tanks-encyclopedia.com/ww1/germany/german_wwi_tanks.php">Germany</a></li>
+	<li id="menu-item-144807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144807"><a href="https://tanks-encyclopedia.com/hellenic-armour.php">Greece</a></li>
+	<li id="menu-item-119494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119494"><a href="https://tanks-encyclopedia.com/ww1/italy/italian_ww1_afv.php">Italy</a></li>
+	<li id="menu-item-120137" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120137"><a href="https://tanks-encyclopedia.com/ww1-mexico-tnca-salinas/">Mexico</a></li>
+	<li id="menu-item-146571" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146571"><a href="https://tanks-encyclopedia.com/ww1-newzealand-mills-travelling-fortifications/">New Zealand</a></li>
+	<li id="menu-item-145599" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-145599"><a href="https://tanks-encyclopedia.com/ww1/france/hotchkiss-mle1909-armoured-car.php">Ottoman Empire</a></li>
+	<li id="menu-item-131360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131360"><a href="https://tanks-encyclopedia.com/ww1-tanks/kingdom-of-spain-1879-1921/">Spain</a></li>
+	<li id="menu-item-141407" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141407"><a href="https://tanks-encyclopedia.com/ww2/dutch/ehrhardt_potkachel">The Netherlands</a></li>
+	<li id="menu-item-119491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119491"><a href="https://tanks-encyclopedia.com/ww1/ww1-british-tanks.php">United Kingdom</a></li>
+	<li id="menu-item-119496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119496"><a href="https://tanks-encyclopedia.com/ww1/usa/usa_wwi_tanks.php">United States of America</a></li>
+</ul>
+</li>
+<li id="menu-item-119489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119489"><a href="https://tanks-encyclopedia.com/world-war-ii-tanks.php">World War Two</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-119547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119547"><a href="#">Asia</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-119535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119535"><a href="https://tanks-encyclopedia.com/ww2/china/chinese-tanks-1925-1950/">China</a></li>
+		<li id="menu-item-119506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119506"><a href="https://tanks-encyclopedia.com/ww2/jap/ww2_ijn_tanks.php">Japan</a></li>
+		<li id="menu-item-119536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119536"><a href="https://tanks-encyclopedia.com/ww2/kingdom-thailand-ww2/">Thailand</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119548"><a href="#">Europe</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-136209" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136209"><a href="https://tanks-encyclopedia.com/carden-loyd-mk-vi-in-belgian-service-mk-vi-with-47-mm/">Belgium</a></li>
+		<li id="menu-item-119544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119544"><a href="https://tanks-encyclopedia.com/ww2/bulgaria/bulgarian-tanks-in-world-war-2">Bulgaria</a></li>
+		<li id="menu-item-136121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136121"><a href="https://tanks-encyclopedia.com/independent-state-of-croatia-1941-1945/">Croatia</a></li>
+		<li id="menu-item-119502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119502"><a href="https://tanks-encyclopedia.com/ww2/czech/ww2_czech_tanks.php">Czechoslovakia</a></li>
+		<li id="menu-item-149130" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-149130"><a href="https://tanks-encyclopedia.com/vcl-light-patrol-car/">Denmark</a></li>
+		<li id="menu-item-119537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119537"><a href="https://tanks-encyclopedia.com/ww2/finnish-tanks.php">Finland</a></li>
+		<li id="menu-item-119503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119503"><a href="https://tanks-encyclopedia.com/ww2/france/ww2_french_tanks.php">France</a></li>
+		<li id="menu-item-137114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137114"><a href="https://tanks-encyclopedia.com/ww2/germany/panzers.php">Germany</a></li>
+		<li id="menu-item-144808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144808"><a href="https://tanks-encyclopedia.com/hellenic-armour.php">Greece</a></li>
+		<li id="menu-item-128626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128626"><a href="https://tanks-encyclopedia.com/ww2/hungary/ww2_hungarian_tanks.php">Hungary</a></li>
+		<li id="menu-item-120144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120144"><a href="https://tanks-encyclopedia.com/irish-armour/">Ireland</a></li>
+		<li id="menu-item-144344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144344"><a href="#">Italy</a><span class="icon"></span>
+		<ul class="sub-menu">
+			<li id="menu-item-142164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142164"><a href="https://tanks-encyclopedia.com/repubblica-sociale-italiana/">Italian Social Republic</a></li>
+			<li id="menu-item-132092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132092"><a href="https://tanks-encyclopedia.com/ww2/italy/ww2_italian_tanks.php">Kingdom of Italy</a></li>
+		</ul>
+</li>
+		<li id="menu-item-135701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135701"><a href="https://tanks-encyclopedia.com/latvian-afvs-of-the-interwar-and-ww2/">Latvia</a></li>
+		<li id="menu-item-148171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148171"><a href="https://tanks-encyclopedia.com/lithuanian-afvs-of-the-interwar-and-ww2/">Lithuania</a></li>
+		<li id="menu-item-144812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144812"><a href="https://tanks-encyclopedia.com/norwegian-armor/">Norway</a></li>
+		<li id="menu-item-119508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119508"><a href="https://tanks-encyclopedia.com/ww2/polish/ww2_polish_tanks.php">Poland</a></li>
+		<li id="menu-item-119538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119538"><a href="https://tanks-encyclopedia.com/ww2/romanian-tanks-ww2.php">Romania</a></li>
+		<li id="menu-item-147159" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-147159"><a href="https://tanks-encyclopedia.com/semovente-l40-da-47-32-in-slovene-and-croat-service/">Slovenia</a></li>
+		<li id="menu-item-119509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119509"><a href="https://tanks-encyclopedia.com/ww2/soviet/ww2_soviet_tanks.php">Soviet Union</a></li>
+		<li id="menu-item-144343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144343"><a href="#">Spain</a><span class="icon"></span>
+		<ul class="sub-menu">
+			<li id="menu-item-135856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135856"><a href="https://tanks-encyclopedia.com/kingdom-of-spain-1921-1931/">Kingdom of Spain</a></li>
+			<li id="menu-item-136879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136879"><a href="https://tanks-encyclopedia.com/ww2/spain/interwar_spanish_tanks.php">Nationalist Spain</a></li>
+			<li id="menu-item-136045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136045"><a href="https://tanks-encyclopedia.com/second-spanish-republic-1931-1939/">Second Spanish Republic</a></li>
+		</ul>
+</li>
+		<li id="menu-item-119498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119498"><a href="https://tanks-encyclopedia.com/ww2/ww2-swedish-tanks.php">Sweden</a></li>
+		<li id="menu-item-124683" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-124683"><a href="https://tanks-encyclopedia.com/ww2-switzerland-panzer-39/">Switzerland</a></li>
+		<li id="menu-item-131270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131270"><a href="https://tanks-encyclopedia.com/ww2/netherland/ww2_dutch_tanks.php">The Netherlands</a></li>
+		<li id="menu-item-119511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119511"><a href="https://tanks-encyclopedia.com/ww2/gb/ww2_british_tanks.php">United Kingdom</a></li>
+		<li id="menu-item-149981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149981"><a href="#">Yugoslavia</a><span class="icon"></span>
+		<ul class="sub-menu">
+			<li id="menu-item-140202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140202"><a href="https://tanks-encyclopedia.com/ww2/yugo/yugoslavian-armor-of-ww2">Kingdom of Yugoslavia</a></li>
+			<li id="menu-item-142511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142511"><a href="https://tanks-encyclopedia.com/yugoslav-resistance-movements-1941-to-1945/">Yugoslav Resistance</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-145914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-145914"><a href="#">Middle East</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-132889" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-132889"><a href="https://tanks-encyclopedia.com/fictional-tanks-hatay-heavy-tank/">Hatay</a></li>
+		<li id="menu-item-145913" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-145913"><a href="https://tanks-encyclopedia.com/ww2-kahns-obstacle-ball-rolling-fortress-tank-tanks-enycyclopedia/">Mandatory Palestine</a></li>
+	</ul>
+</li>
+	<li id="menu-item-144349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144349"><a href="#">North America</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-119534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119534"><a href="https://tanks-encyclopedia.com/ww2/canada/ww2_canadian_tanks.php">Canada</a></li>
+		<li id="menu-item-144804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144804"><a href="https://tanks-encyclopedia.com/el-salvadoran-armor/">El Salvador</a></li>
+		<li id="menu-item-119512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119512"><a href="https://tanks-encyclopedia.com/ww2/us/ww2_us_tanks.php">United States of America</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119545"><a href="#">Oceania</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-119500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119500"><a href="https://tanks-encyclopedia.com/ww2/australia/ww2_australian_tanks.php">Australia</a></li>
+		<li id="menu-item-120145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120145"><a href="https://tanks-encyclopedia.com/coldwar/new-zealand.php">New Zealand</a></li>
+	</ul>
+</li>
+	<li id="menu-item-144350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144350"><a href="#">South America</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-124304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124304"><a href="https://tanks-encyclopedia.com/ww2-argentine-armor/">Argentina</a></li>
+		<li id="menu-item-119542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119542"><a href="https://tanks-encyclopedia.com/bolivian-armor/">Bolivia</a></li>
+		<li id="menu-item-144803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144803"><a href="https://tanks-encyclopedia.com/coldwar/chile">Chile</a></li>
+		<li id="menu-item-143747" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143747"><a href="https://tanks-encyclopedia.com/praga-ltp-tanque-ligero-38-39m/">Peru</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-119513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119513"><a href="https://tanks-encyclopedia.com/cold-war-tanks.php">Cold War</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-119589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119589"><a href="#">Africa</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-146621" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146621"><a href="https://tanks-encyclopedia.com/algerian-t-62/">Algeria</a></li>
+		<li id="menu-item-144818" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144818"><a href="https://tanks-encyclopedia.com/type-1-technical/">Angola</a></li>
+		<li id="menu-item-144815" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144815"><a href="https://tanks-encyclopedia.com/type-1-technical/">Chad</a></li>
+		<li id="menu-item-136679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136679"><a href="https://tanks-encyclopedia.com/egypt.php">Egypt</a></li>
+		<li id="menu-item-120147" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120147"><a href="https://tanks-encyclopedia.com/coldwar/belgium/m8-greyhound-katangese-service/">Katanga</a></li>
+		<li id="menu-item-144799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144799"><a href="https://tanks-encyclopedia.com/liberian-armor">Liberia</a></li>
+		<li id="menu-item-141409" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141409"><a href="https://tanks-encyclopedia.com/pt-76-mali/">Mali</a></li>
+		<li id="menu-item-135766" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-135766"><a href="https://tanks-encyclopedia.com/pookie-light-landmine-detection-vehicle/">Rhodesia</a></li>
+		<li id="menu-item-144825" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144825"><a href="https://tanks-encyclopedia.com/type-1-technical/">Somalia</a></li>
+		<li id="menu-item-119586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119586"><a href="https://tanks-encyclopedia.com/south_african_tanks.php">South Africa</a></li>
+		<li id="menu-item-141408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141408"><a href="https://tanks-encyclopedia.com/modern-sudan-page/">Sudan</a></li>
+		<li id="menu-item-144769" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144769"><a href="https://tanks-encyclopedia.com/coldwar/belgium/m8-greyhound-katangese-service/">The Congo</a></li>
+		<li id="menu-item-147572" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-147572"><a href="https://tanks-encyclopedia.com/ee-11-urutu-afsv/">Tunisia</a></li>
+		<li id="menu-item-123994" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-123994"><a href="https://tanks-encyclopedia.com/coldwar-uganda-medium-tank-m4a1-76-sherman-ugandan-service/">Uganda</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119550"><a href="#">Asia</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-120989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120989"><a href="https://tanks-encyclopedia.com/coldwar/china/chinese_pla_tanks.php">China</a></li>
+		<li id="menu-item-146828" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146828"><a href="https://tanks-encyclopedia.com/coldwar-westgermany-indien-panzer/">India</a></li>
+		<li id="menu-item-128066" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-128066"><a href="https://tanks-encyclopedia.com/coldwar/japan/type-87-spaag">Japan</a></li>
+		<li id="menu-item-134049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134049"><a href="https://tanks-encyclopedia.com/coldwar/north_korea/north_korean_tanks.php">North Korea</a></li>
+		<li id="menu-item-136924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136924"><a href="https://tanks-encyclopedia.com/wan-cheng-4/">Taiwan</a></li>
+		<li id="menu-item-120151" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120151"><a href="https://tanks-encyclopedia.com/coldwar/vietnam/type-63-65-spaag/">Vietnam</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119549"><a href="#">Europe</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-119524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119524"><a href="https://tanks-encyclopedia.com/coldwar/belgium/cold-war-belgium">Belgium</a></li>
+		<li id="menu-item-148288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148288"><a href="https://tanks-encyclopedia.com/peoples-republic-of-bulgaria-1946-1990/">Bulgaria</a></li>
+		<li id="menu-item-143182" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143182"><a href="https://tanks-encyclopedia.com/cypriot-valentine-mkii-tank/">Cyprus</a></li>
+		<li id="menu-item-132912" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-132912"><a href="https://tanks-encyclopedia.com/coldwar/czechoslovakia/pm-1-flame-tank/">Czechoslovakia</a></li>
+		<li id="menu-item-120776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120776"><a href="https://tanks-encyclopedia.com/coldwar/france/french_cold_war_tanks.php">France</a></li>
+		<li id="menu-item-119526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119526"><a href="https://tanks-encyclopedia.com/hellenic-armour.php">Greece</a></li>
+		<li id="menu-item-119529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119529"><a href="https://tanks-encyclopedia.com/irish-armour/">Ireland</a></li>
+		<li id="menu-item-121455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121455"><a href="https://tanks-encyclopedia.com/coldwar/italy/italian_cold_war_tanks.php">Italy</a></li>
+		<li id="menu-item-145530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145530"><a href="https://tanks-encyclopedia.com/luxembourg/">Luxembourg</a></li>
+		<li id="menu-item-124108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124108"><a href="https://tanks-encyclopedia.com/norwegian-armor/">Norway</a></li>
+		<li id="menu-item-119580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119580"><a href="https://tanks-encyclopedia.com/romanian-tanks.php">Romania</a></li>
+		<li id="menu-item-120156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120156"><a href="https://tanks-encyclopedia.com/coldwar/ussr/coldwar_soviet_tanks">Soviet Union</a></li>
+		<li id="menu-item-143444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143444"><a href="https://tanks-encyclopedia.com/spanish-tanks.php">Spain</a></li>
+		<li id="menu-item-119523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119523"><a href="https://tanks-encyclopedia.com/coldwar/sweden/swedish_tanks.php">Sweden</a></li>
+		<li id="menu-item-119587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119587"><a href="https://tanks-encyclopedia.com/switzerland.php">Switzerland</a></li>
+		<li id="menu-item-138652" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-138652"><a href="https://tanks-encyclopedia.com/gm-otter-light-reconnaissance-car-in-dutch-service/">The Netherlands</a></li>
+		<li id="menu-item-120155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120155"><a href="https://tanks-encyclopedia.com/coldwar/uk/british_cold_war_tanks.php">United Kingdom</a></li>
+		<li id="menu-item-120153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120153"><a href="https://tanks-encyclopedia.com/coldwar/west_germany/german_cold_war_tanks.php">West Germany</a></li>
+		<li id="menu-item-119521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119521"><a href="https://tanks-encyclopedia.com/coldwar/yugoslavia">Yugoslavia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119551"><a href="#">Middle East</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-144817" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144817"><a href="https://tanks-encyclopedia.com/type-1-technical/">Afghanistan</a></li>
+		<li id="menu-item-119528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119528"><a href="https://tanks-encyclopedia.com/iraqi-tanks.php">Iraq</a></li>
+		<li id="menu-item-119530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119530"><a href="https://tanks-encyclopedia.com/israeli-tanks.php">Israel</a></li>
+		<li id="menu-item-127947" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-127947"><a href="https://tanks-encyclopedia.com/renault-r35-in-lebanese-service/">Lebanon</a></li>
+		<li id="menu-item-143183" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143183"><a href="https://tanks-encyclopedia.com/coldwar/italy/OF-40_MBT.php">United Arab Emirates</a></li>
+	</ul>
+</li>
+	<li id="menu-item-144345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144345"><a href="#">North America</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-119516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119516"><a href="https://tanks-encyclopedia.com/coldwar/cold-war-canadian-tanks.php">Canada</a></li>
+		<li id="menu-item-120150" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120150"><a href="https://tanks-encyclopedia.com/a34-comet-in-cuban-service/">Cuba</a></li>
+		<li id="menu-item-119525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119525"><a href="https://tanks-encyclopedia.com/el-salvadoran-armor/">El Salvador</a></li>
+		<li id="menu-item-146993" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146993"><a href="https://tanks-encyclopedia.com/1983-invasion-of-grenada/">Grenada</a></li>
+		<li id="menu-item-138565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138565"><a href="https://tanks-encyclopedia.com/jamaica/">Jamaica</a></li>
+		<li id="menu-item-146992" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146992"><a href="https://tanks-encyclopedia.com/1989-us-invasion-of-panama/">Panama</a></li>
+		<li id="menu-item-120265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120265"><a href="https://tanks-encyclopedia.com/coldwar/us/cold_war_american_tanks.php">United States of America</a></li>
+	</ul>
+</li>
+	<li id="menu-item-144346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144346"><a href="#">South America</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-119584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119584"><a href="https://tanks-encyclopedia.com/argentina.php">Argentina</a></li>
+		<li id="menu-item-144309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144309"><a href="https://tanks-encyclopedia.com/bolivian-armor/">Bolivia</a></li>
+		<li id="menu-item-133369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133369"><a href="https://tanks-encyclopedia.com/coldwar/brazilian-tanks">Brazil</a></li>
+		<li id="menu-item-132424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132424"><a href="https://tanks-encyclopedia.com/coldwar/chile">Chile</a></li>
+		<li id="menu-item-141504" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141504"><a href="https://tanks-encyclopedia.com/x1hvms/">Ecuador</a></li>
+		<li id="menu-item-136140" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136140"><a href="https://tanks-encyclopedia.com/m24ur/">Uruguay</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-119898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119898"><a href="https://tanks-encyclopedia.com/modern-tanks.php">Modern Era</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-119905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119905"><a href="#">Africa</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-139417" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139417"><a href="https://tanks-encyclopedia.com/algerian-t-62/">Algeria</a></li>
+		<li id="menu-item-144816" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144816"><a href="https://tanks-encyclopedia.com/type-1-technical/">Chad</a></li>
+		<li id="menu-item-137321" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137321"><a href="https://tanks-encyclopedia.com/ats-59g-mlrs/">Egypt</a></li>
+		<li id="menu-item-134398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134398"><a href="https://tanks-encyclopedia.com/liberian-armor">Liberia</a></li>
+		<li id="menu-item-144820" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144820"><a href="https://tanks-encyclopedia.com/type-1-technical/">Libya</a></li>
+		<li id="menu-item-137884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137884"><a href="https://tanks-encyclopedia.com/modern-mali/">Mali</a></li>
+		<li id="menu-item-144824" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144824"><a href="https://tanks-encyclopedia.com/type-1-technical/">Somalia</a></li>
+		<li id="menu-item-142600" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142600"><a href="https://tanks-encyclopedia.com/fiat-6616-in-somaliland-service/">Somaliland</a></li>
+		<li id="menu-item-120158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120158"><a href="https://tanks-encyclopedia.com/south_african_tanks.php">South Africa</a></li>
+		<li id="menu-item-139655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139655"><a href="https://tanks-encyclopedia.com/modern-sudan-page/">Sudan</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119906"><a href="#">Asia</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-142873" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142873"><a href="https://tanks-encyclopedia.com/tata-mbpv/">India</a></li>
+		<li id="menu-item-119903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119903"><a href="https://tanks-encyclopedia.com/modern/japan/japanese_modern_tanks.php">Japan</a></li>
+		<li id="menu-item-135006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135006"><a href="https://tanks-encyclopedia.com/modern-dprk/">North Korea</a></li>
+		<li id="menu-item-149758" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-149758"><a href="https://tanks-encyclopedia.com/shorland-s600/">Singapore</a></li>
+		<li id="menu-item-137952" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137952"><a href="https://tanks-encyclopedia.com/tamil-tigers-light-tank/">Sri Lanka</a></li>
+		<li id="menu-item-139158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139158"><a href="https://tanks-encyclopedia.com/vietnamese-modern-armor/">Vietnam</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119907"><a href="#">Europe</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-142264" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142264"><a href="https://tanks-encyclopedia.com/carat-black-scorpion-centigon-citadel-puma/">Belgium</a></li>
+		<li id="menu-item-136858" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136858"><a href="https://tanks-encyclopedia.com/vxo-amphibious-half-track/">Finland</a></li>
+		<li id="menu-item-146703" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146703"><a href="https://tanks-encyclopedia.com/carat-black-scorpion-centigon-citadel-puma/">France</a></li>
+		<li id="menu-item-119901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119901"><a href="https://tanks-encyclopedia.com/modern/modern-german-tanks.php">Germany</a></li>
+		<li id="menu-item-144811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144811"><a href="https://tanks-encyclopedia.com/hellenic-armour.php">Greece</a></li>
+		<li id="menu-item-144809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144809"><a href="https://tanks-encyclopedia.com/irish-armour/">Ireland</a></li>
+		<li id="menu-item-120162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120162"><a href="https://tanks-encyclopedia.com/modern-tanks/italy.php">Italy</a></li>
+		<li id="menu-item-144844" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144844"><a href="https://tanks-encyclopedia.com/vxo-amphibious-half-track/">Liechtenstein</a></li>
+		<li id="menu-item-145369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145369"><a href="https://tanks-encyclopedia.com/luxembourg/">Luxembourg</a></li>
+		<li id="menu-item-144813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144813"><a href="https://tanks-encyclopedia.com/norwegian-armor/">Norway</a></li>
+		<li id="menu-item-138866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138866"><a href="https://tanks-encyclopedia.com/romanian-modern-armor/">Romania</a></li>
+		<li id="menu-item-119583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119583"><a href="https://tanks-encyclopedia.com/modern/russian-tanks.php">Russia</a></li>
+		<li id="menu-item-133899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133899"><a href="https://tanks-encyclopedia.com/serbian-modern-armor/">Serbia</a></li>
+		<li id="menu-item-128098" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-128098"><a href="https://tanks-encyclopedia.com/modern-spain-cz-10-253-alacran/">Spain</a></li>
+		<li id="menu-item-143523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143523"><a href="https://tanks-encyclopedia.com/sweden-modern-nation-page/">Sweden</a></li>
+		<li id="menu-item-120164" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120164"><a href="https://tanks-encyclopedia.com/modern-switzerland-germany-aev-3-kodiak/">Switzerland</a></li>
+		<li id="menu-item-143191" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143191"><a href="https://tanks-encyclopedia.com/dmv-anaconda/">The Netherlands</a></li>
+		<li id="menu-item-136765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136765"><a href="https://tanks-encyclopedia.com/pridnestrovian-moldavian-republic-transnistria/">Transnistria</a></li>
+		<li id="menu-item-128105" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-128105"><a href="https://tanks-encyclopedia.com/uk/modern/ajax-reconnaissance-tank-apc">United Kingdom</a></li>
+	</ul>
+</li>
+	<li id="menu-item-144340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144340"><a href="#">Middle East</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-144819" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144819"><a href="https://tanks-encyclopedia.com/type-1-technical/">Afghanistan</a></li>
+		<li id="menu-item-137736" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137736"><a href="https://tanks-encyclopedia.com/karrar-main-battle-tank/">Iran</a></li>
+		<li id="menu-item-146842" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146842"><a href="https://tanks-encyclopedia.com/type-1-technical/">Iraq</a></li>
+		<li id="menu-item-144823" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144823"><a href="https://tanks-encyclopedia.com/type-1-technical/">Islamic State</a></li>
+		<li id="menu-item-143190" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143190"><a href="https://tanks-encyclopedia.com/tank-reef-at-aqaba/">Jordan</a></li>
+		<li id="menu-item-149757" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-149757"><a href="https://tanks-encyclopedia.com/shorland-s600/">Kuwait</a></li>
+		<li id="menu-item-137162" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137162"><a href="https://tanks-encyclopedia.com/stark-motors-storm/">Qatar</a></li>
+		<li id="menu-item-119559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119559"><a href="https://tanks-encyclopedia.com/modern/syrian-arab-republic/">Syria</a></li>
+		<li id="menu-item-143166" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143166"><a href="https://tanks-encyclopedia.com/modern-uae-belgium-sabiex-hifv-golden-unit/">United Arab Emirates</a></li>
+		<li id="menu-item-144822" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144822"><a href="https://tanks-encyclopedia.com/type-1-technical/">Yemen</a></li>
+	</ul>
+</li>
+	<li id="menu-item-144347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144347"><a href="#">North America</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-145005" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-145005"><a href="https://tanks-encyclopedia.com/modern-us-canada-em113a2-rapid-entry-vehicle-2/">Canada</a></li>
+		<li id="menu-item-144805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144805"><a href="https://tanks-encyclopedia.com/el-salvadoran-armor/">El Salvador</a></li>
+		<li id="menu-item-138564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138564"><a href="https://tanks-encyclopedia.com/jamaica/">Jamaica</a></li>
+		<li id="menu-item-120165" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120165"><a href="https://tanks-encyclopedia.com/modern/mexico/narco_tanks">Mexico</a></li>
+		<li id="menu-item-120160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120160"><a href="https://tanks-encyclopedia.com/modern/us-modern-tanks.php">United States of America</a></li>
+	</ul>
+</li>
+	<li id="menu-item-148665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-148665"><a href="#">Oceania</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-148666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148666"><a href="https://tanks-encyclopedia.com/shorland-s600/">Australia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-144348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144348"><a href="#">South America</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-146893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146893"><a href="https://tanks-encyclopedia.com/argentina.php">Argentina</a></li>
+		<li id="menu-item-144801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144801"><a href="https://tanks-encyclopedia.com/bolivian-armor/">Bolivia</a></li>
+		<li id="menu-item-136570" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136570"><a href="https://tanks-encyclopedia.com/guarani/">Brazil</a></li>
+		<li id="menu-item-142847" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142847"><a href="https://tanks-encyclopedia.com/imdicol-zipa/">Colombia</a></li>
+		<li id="menu-item-150013" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-150013"><a href="https://tanks-encyclopedia.com/aurum-security-a200/">Peru</a></li>
+		<li id="menu-item-136611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136611"><a href="https://tanks-encyclopedia.com/tiran-5sh-in-uruguayan-service/">Uruguay</a></li>
+	</ul>
+</li>
+	<li id="menu-item-138458" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-138458"><a href="https://tanks-encyclopedia.com/macharius-heavy-tank/">Fictional Vehicles</a></li>
+</ul>
+</li>
+<li id="menu-item-119934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119934"><a href="#">More</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-128593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-128593"><a href="https://tank-afv.com">Archives</a></li>
+	<li id="menu-item-119577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119577"><a href="https://tanks-encyclopedia.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-131671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-131671"><a rel="privacy-policy" href="https://tanks-encyclopedia.com/privacy-policy">Privacy Policy</a></li>
+	<li id="menu-item-119578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119578"><a href="https://tanks-encyclopedia.com/cookie-policy/">Cookie Policy</a></li>
+	<li id="menu-item-119572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119572"><a href="https://tanks-encyclopedia.com/goodies/legal-mentions.php">Legal Mentions</a></li>
+	<li id="menu-item-119560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119560"><a href="#">Shop</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-119562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119562"><a href="https://tanks-encyclopedia.com/goodies/tanks-posters.php">Posters</a></li>
+		<li id="menu-item-119561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119561"><a href="https://tanks-encyclopedia.com/goodies/shop">Books</a></li>
+		<li id="menu-item-124265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124265"><a href="https://gunjigraphics.com/product-category/tank-encyclopedia/">Merchandise</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119565"><a href="#">Goodies</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-119566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119566"><a href="https://tanks-encyclopedia.com/meet-the-team/">Meet the Team</a></li>
+		<li id="menu-item-119569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119569"><a href="https://tanks-encyclopedia.com/goodies/lexical-index">Lexical Index</a></li>
+		<li id="menu-item-119573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119573"><a href="https://tanks-encyclopedia.com/goodies/links-on-tanks.php">Links on Tanks</a></li>
+		<li id="menu-item-119568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119568"><a href="https://tank-afv.com/VR/">VR Museum</a></li>
+		<li id="menu-item-119574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119574"><a href="https://tanks-encyclopedia.com/goodies/tutorial-tank-illustration/">Tutorial</a></li>
+		<li id="menu-item-119592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119592"><a href="https://tanks-encyclopedia.com/united-kingdom-index/">UK Index</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+
+								</ul>
+
+							</nav><!-- .primary-menu-wrapper -->
+
+												<div class="header-toggles hide-no-js">
+													<div class="toggle-wrapper nav-toggle-wrapper has-expanded-menu">
+								<button class="toggle nav-toggle desktop-nav-toggle" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+									<span class="toggle-inner">
+										<span class="toggle-text">Menu</span>
+										<span class="toggle-icon">
+											<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)" /></svg>										</span>
+									</span>
+								</button><!-- .nav-toggle -->
+							</div><!-- .nav-toggle-wrapper -->
+							
+							<div class="toggle-wrapper search-toggle-wrapper">
+								<button class="toggle search-toggle desktop-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+									<span class="toggle-inner">
+										<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>										<span class="toggle-text">Search</span>
+									</span>
+								</button><!-- .search-toggle -->
+							</div>
+													</div><!-- .header-toggles -->
+										</div><!-- .header-navigation-wrapper -->
+			</div><!-- .header-inner -->
+			<div class="search-modal cover-modal header-footer-group" data-modal-target-string=".search-modal" role="dialog" aria-modal="true" aria-label="Search">
+
+	<div class="search-modal-inner modal-inner">
+
+		<div class="section-inner">
+
+			<form role="search" aria-label="Search for:" method="get" class="search-form" action="https://tanks-encyclopedia.com/">
+	<label for="search-form-1">
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" id="search-form-1" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+	<input type="submit" class="search-submit" value="Search" />
+</form>
+
+			<button class="toggle search-untoggle close-search-toggle fill-children-current-color" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field">
+				<span class="screen-reader-text">Close search</span>
+				<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>			</button><!-- .search-toggle -->
+
+		</div><!-- .section-inner -->
+
+	</div><!-- .search-modal-inner -->
+
+</div><!-- .menu-modal -->
+		</header><!-- #site-header -->
+		<!--<div align="center" data-aaad='true' data-aa-adunit='/22815767462/TNKE_970x250v_1'></div>-->
+
+<!--<div id="ed4b9e7b-2701-4f2d-ba75-695d07041d7c"></div>-->
+<!--<script>
+var sp1 = new aiSpoiler;
+		sp1.initSpoiler(".spoiler_1", {
+			showText: "Show content",
+			hideText: "Hide content",
+		});
+</script>-->
+<!--<script>
+  (function (d, s, n) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      js = d.createElement(s);
+      js.className = n;
+      js.src = "//player.ex.co/player/ed4b9e7b-2701-4f2d-ba75-695d07041d7c";
+      fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'exco-player'));
+</script>-->
+		
+		
+<div class="menu-modal cover-modal header-footer-group" data-modal-target-string=".menu-modal">
+
+	<div class="menu-modal-inner modal-inner">
+
+		<div class="menu-wrapper section-inner">
+
+			<div class="menu-top">
+
+				<button class="toggle close-nav-toggle fill-children-current-color" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" data-set-focus=".menu-modal">
+					<span class="toggle-text">Close Menu</span>
+					<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>				</button><!-- .nav-toggle -->
+
+				
+					<nav class="expanded-menu" aria-label="Expanded">
+
+						<ul class="modal-menu reset-list-style">
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120112"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/world-war-i-tanks.php">World War One</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-120112 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119490"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1/austria-hungary/austro-hungarian_armour.php">Austria-Hungary</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-130501"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/auto-mixte-automitrailleuse-blindee/">Belgium</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120136"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1-canada-saczeany-apc/">Canada</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133497"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1-tanks/kingdom-of-denmark-wwi/">Denmark</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119492"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1/fr/french_wwi_tanks.php">France</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119493"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1/germany/german_wwi_tanks.php">Germany</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144807"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/hellenic-armour.php">Greece</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119494"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1/italy/italian_ww1_afv.php">Italy</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120137"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1-mexico-tnca-salinas/">Mexico</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146571"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1-newzealand-mills-travelling-fortifications/">New Zealand</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-145599"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1/france/hotchkiss-mle1909-armoured-car.php">Ottoman Empire</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131360"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1-tanks/kingdom-of-spain-1879-1921/">Spain</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141407"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/dutch/ehrhardt_potkachel">The Netherlands</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119491"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1/ww1-british-tanks.php">United Kingdom</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119496"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww1/usa/usa_wwi_tanks.php">United States of America</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119489"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/world-war-ii-tanks.php">World War Two</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119489 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119547"><div class="ancestor-wrapper"><a href="#">Asia</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119547 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119535"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/china/chinese-tanks-1925-1950/">China</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119506"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/jap/ww2_ijn_tanks.php">Japan</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119536"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/kingdom-thailand-ww2/">Thailand</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119548"><div class="ancestor-wrapper"><a href="#">Europe</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119548 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136209"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/carden-loyd-mk-vi-in-belgian-service-mk-vi-with-47-mm/">Belgium</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119544"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/bulgaria/bulgarian-tanks-in-world-war-2">Bulgaria</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136121"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/independent-state-of-croatia-1941-1945/">Croatia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119502"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/czech/ww2_czech_tanks.php">Czechoslovakia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-149130"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/vcl-light-patrol-car/">Denmark</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119537"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/finnish-tanks.php">Finland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119503"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/france/ww2_french_tanks.php">France</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137114"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/germany/panzers.php">Germany</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144808"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/hellenic-armour.php">Greece</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128626"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/hungary/ww2_hungarian_tanks.php">Hungary</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120144"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/irish-armour/">Ireland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144344"><div class="ancestor-wrapper"><a href="#">Italy</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144344 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142164"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/repubblica-sociale-italiana/">Italian Social Republic</a></div><!-- .ancestor-wrapper --></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132092"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/italy/ww2_italian_tanks.php">Kingdom of Italy</a></div><!-- .ancestor-wrapper --></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135701"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/latvian-afvs-of-the-interwar-and-ww2/">Latvia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148171"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/lithuanian-afvs-of-the-interwar-and-ww2/">Lithuania</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144812"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/norwegian-armor/">Norway</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119508"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/polish/ww2_polish_tanks.php">Poland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119538"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/romanian-tanks-ww2.php">Romania</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-147159"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/semovente-l40-da-47-32-in-slovene-and-croat-service/">Slovenia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119509"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/soviet/ww2_soviet_tanks.php">Soviet Union</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144343"><div class="ancestor-wrapper"><a href="#">Spain</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144343 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135856"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/kingdom-of-spain-1921-1931/">Kingdom of Spain</a></div><!-- .ancestor-wrapper --></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136879"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/spain/interwar_spanish_tanks.php">Nationalist Spain</a></div><!-- .ancestor-wrapper --></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136045"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/second-spanish-republic-1931-1939/">Second Spanish Republic</a></div><!-- .ancestor-wrapper --></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119498"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/ww2-swedish-tanks.php">Sweden</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-124683"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2-switzerland-panzer-39/">Switzerland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131270"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/netherland/ww2_dutch_tanks.php">The Netherlands</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119511"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/gb/ww2_british_tanks.php">United Kingdom</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149981"><div class="ancestor-wrapper"><a href="#">Yugoslavia</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-149981 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140202"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/yugo/yugoslavian-armor-of-ww2">Kingdom of Yugoslavia</a></div><!-- .ancestor-wrapper --></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142511"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/yugoslav-resistance-movements-1941-to-1945/">Yugoslav Resistance</a></div><!-- .ancestor-wrapper --></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-145914"><div class="ancestor-wrapper"><a href="#">Middle East</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-145914 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-132889"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/fictional-tanks-hatay-heavy-tank/">Hatay</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-145913"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2-kahns-obstacle-ball-rolling-fortress-tank-tanks-enycyclopedia/">Mandatory Palestine</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144349"><div class="ancestor-wrapper"><a href="#">North America</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144349 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119534"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/canada/ww2_canadian_tanks.php">Canada</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144804"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/el-salvadoran-armor/">El Salvador</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119512"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/us/ww2_us_tanks.php">United States of America</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119545"><div class="ancestor-wrapper"><a href="#">Oceania</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119545 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119500"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2/australia/ww2_australian_tanks.php">Australia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120145"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/new-zealand.php">New Zealand</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144350"><div class="ancestor-wrapper"><a href="#">South America</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144350 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124304"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ww2-argentine-armor/">Argentina</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119542"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/bolivian-armor/">Bolivia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144803"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/chile">Chile</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143747"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/praga-ltp-tanque-ligero-38-39m/">Peru</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119513"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/cold-war-tanks.php">Cold War</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119513 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119589"><div class="ancestor-wrapper"><a href="#">Africa</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119589 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146621"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/algerian-t-62/">Algeria</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144818"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Angola</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144815"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Chad</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136679"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/egypt.php">Egypt</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120147"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/belgium/m8-greyhound-katangese-service/">Katanga</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144799"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/liberian-armor">Liberia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141409"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/pt-76-mali/">Mali</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-135766"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/pookie-light-landmine-detection-vehicle/">Rhodesia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144825"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Somalia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119586"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/south_african_tanks.php">South Africa</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141408"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-sudan-page/">Sudan</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144769"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/belgium/m8-greyhound-katangese-service/">The Congo</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-147572"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ee-11-urutu-afsv/">Tunisia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-123994"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar-uganda-medium-tank-m4a1-76-sherman-ugandan-service/">Uganda</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119550"><div class="ancestor-wrapper"><a href="#">Asia</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119550 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120989"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/china/chinese_pla_tanks.php">China</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146828"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar-westgermany-indien-panzer/">India</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-128066"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/japan/type-87-spaag">Japan</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134049"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/north_korea/north_korean_tanks.php">North Korea</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136924"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/wan-cheng-4/">Taiwan</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120151"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/vietnam/type-63-65-spaag/">Vietnam</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119549"><div class="ancestor-wrapper"><a href="#">Europe</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119549 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119524"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/belgium/cold-war-belgium">Belgium</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148288"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/peoples-republic-of-bulgaria-1946-1990/">Bulgaria</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143182"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/cypriot-valentine-mkii-tank/">Cyprus</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-132912"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/czechoslovakia/pm-1-flame-tank/">Czechoslovakia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120776"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/france/french_cold_war_tanks.php">France</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119526"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/hellenic-armour.php">Greece</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119529"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/irish-armour/">Ireland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121455"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/italy/italian_cold_war_tanks.php">Italy</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145530"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/luxembourg/">Luxembourg</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124108"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/norwegian-armor/">Norway</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119580"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/romanian-tanks.php">Romania</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120156"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/ussr/coldwar_soviet_tanks">Soviet Union</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143444"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/spanish-tanks.php">Spain</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119523"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/sweden/swedish_tanks.php">Sweden</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119587"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/switzerland.php">Switzerland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-138652"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/gm-otter-light-reconnaissance-car-in-dutch-service/">The Netherlands</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120155"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/uk/british_cold_war_tanks.php">United Kingdom</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120153"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/west_germany/german_cold_war_tanks.php">West Germany</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119521"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/yugoslavia">Yugoslavia</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119551"><div class="ancestor-wrapper"><a href="#">Middle East</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119551 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144817"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Afghanistan</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119528"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/iraqi-tanks.php">Iraq</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119530"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/israeli-tanks.php">Israel</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-127947"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/renault-r35-in-lebanese-service/">Lebanon</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143183"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/italy/OF-40_MBT.php">United Arab Emirates</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144345"><div class="ancestor-wrapper"><a href="#">North America</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144345 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119516"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/cold-war-canadian-tanks.php">Canada</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120150"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/a34-comet-in-cuban-service/">Cuba</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119525"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/el-salvadoran-armor/">El Salvador</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146993"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/1983-invasion-of-grenada/">Grenada</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138565"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/jamaica/">Jamaica</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146992"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/1989-us-invasion-of-panama/">Panama</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120265"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/us/cold_war_american_tanks.php">United States of America</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144346"><div class="ancestor-wrapper"><a href="#">South America</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144346 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119584"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/argentina.php">Argentina</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144309"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/bolivian-armor/">Bolivia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133369"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/brazilian-tanks">Brazil</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132424"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/coldwar/chile">Chile</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141504"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/x1hvms/">Ecuador</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136140"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/m24ur/">Uruguay</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119898"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-tanks.php">Modern Era</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119898 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119905"><div class="ancestor-wrapper"><a href="#">Africa</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119905 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139417"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/algerian-t-62/">Algeria</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144816"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Chad</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137321"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/ats-59g-mlrs/">Egypt</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134398"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/liberian-armor">Liberia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144820"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Libya</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137884"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-mali/">Mali</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144824"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Somalia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142600"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/fiat-6616-in-somaliland-service/">Somaliland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120158"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/south_african_tanks.php">South Africa</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139655"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-sudan-page/">Sudan</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119906"><div class="ancestor-wrapper"><a href="#">Asia</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119906 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142873"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/tata-mbpv/">India</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119903"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern/japan/japanese_modern_tanks.php">Japan</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135006"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-dprk/">North Korea</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-149758"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/shorland-s600/">Singapore</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137952"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/tamil-tigers-light-tank/">Sri Lanka</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139158"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/vietnamese-modern-armor/">Vietnam</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119907"><div class="ancestor-wrapper"><a href="#">Europe</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119907 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142264"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/carat-black-scorpion-centigon-citadel-puma/">Belgium</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136858"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/vxo-amphibious-half-track/">Finland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146703"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/carat-black-scorpion-centigon-citadel-puma/">France</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119901"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern/modern-german-tanks.php">Germany</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144811"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/hellenic-armour.php">Greece</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144809"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/irish-armour/">Ireland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120162"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-tanks/italy.php">Italy</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144844"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/vxo-amphibious-half-track/">Liechtenstein</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145369"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/luxembourg/">Luxembourg</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144813"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/norwegian-armor/">Norway</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138866"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/romanian-modern-armor/">Romania</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119583"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern/russian-tanks.php">Russia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133899"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/serbian-modern-armor/">Serbia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-128098"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-spain-cz-10-253-alacran/">Spain</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143523"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/sweden-modern-nation-page/">Sweden</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120164"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-switzerland-germany-aev-3-kodiak/">Switzerland</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143191"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/dmv-anaconda/">The Netherlands</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136765"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/pridnestrovian-moldavian-republic-transnistria/">Transnistria</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-128105"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/uk/modern/ajax-reconnaissance-tank-apc">United Kingdom</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144340"><div class="ancestor-wrapper"><a href="#">Middle East</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144340 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144819"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Afghanistan</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137736"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/karrar-main-battle-tank/">Iran</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146842"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Iraq</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144823"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Islamic State</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143190"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/tank-reef-at-aqaba/">Jordan</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-149757"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/shorland-s600/">Kuwait</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137162"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/stark-motors-storm/">Qatar</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119559"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern/syrian-arab-republic/">Syria</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143166"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-uae-belgium-sabiex-hifv-golden-unit/">United Arab Emirates</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-144822"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/type-1-technical/">Yemen</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144347"><div class="ancestor-wrapper"><a href="#">North America</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144347 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-145005"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-us-canada-em113a2-rapid-entry-vehicle-2/">Canada</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144805"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/el-salvadoran-armor/">El Salvador</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138564"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/jamaica/">Jamaica</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-120165"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern/mexico/narco_tanks">Mexico</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120160"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern/us-modern-tanks.php">United States of America</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-148665"><div class="ancestor-wrapper"><a href="#">Oceania</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-148665 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148666"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/shorland-s600/">Australia</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144348"><div class="ancestor-wrapper"><a href="#">South America</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-144348 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146893"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/argentina.php">Argentina</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144801"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/bolivian-armor/">Bolivia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136570"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/guarani/">Brazil</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142847"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/imdicol-zipa/">Colombia</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-150013"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/aurum-security-a200/">Peru</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136611"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/tiran-5sh-in-uruguayan-service/">Uruguay</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-138458"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/macharius-heavy-tank/">Fictional Vehicles</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119934"><div class="ancestor-wrapper"><a href="#">More</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119934 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-128593"><div class="ancestor-wrapper"><a href="https://tank-afv.com">Archives</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119577"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/contact-us/">Contact Us</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-131671"><div class="ancestor-wrapper"><a rel="privacy-policy" href="https://tanks-encyclopedia.com/privacy-policy">Privacy Policy</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119578"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/cookie-policy/">Cookie Policy</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119572"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/legal-mentions.php">Legal Mentions</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119560"><div class="ancestor-wrapper"><a href="#">Shop</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119560 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119562"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/tanks-posters.php">Posters</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119561"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/shop">Books</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124265"><div class="ancestor-wrapper"><a href="https://gunjigraphics.com/product-category/tank-encyclopedia/">Merchandise</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119565"><div class="ancestor-wrapper"><a href="#">Goodies</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-119565 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119566"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/meet-the-team/">Meet the Team</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119569"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/lexical-index">Lexical Index</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119573"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/links-on-tanks.php">Links on Tanks</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119568"><div class="ancestor-wrapper"><a href="https://tank-afv.com/VR/">VR Museum</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119574"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/tutorial-tank-illustration/">Tutorial</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119592"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/united-kingdom-index/">UK Index</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+</ul>
+</li>
+						</ul>
+
+					</nav>
+
+					
+					<nav class="mobile-menu" aria-label="Mobile">
+
+						<ul class="modal-menu reset-list-style">
+
+						<li id="menu-item-120891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120891"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/world-war-i-tanks.php">World War One Tanks</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-120892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120892"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/world-war-ii-tanks.php">World War Two Tanks</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-120889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120889"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/cold-war-tanks.php">Cold War Tanks</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-120890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120890"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/modern-tanks.php">Modern Tanks</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-129384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-129384"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/static/archives.php">Archives</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-120893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120893"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/tanks-posters.php">Tank Encyclopedia’s Shop</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-120897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120897"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/meet-the-team/">Meet the Team</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-120898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120898"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/shop">Tank Encyclopedia Book Shop</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-124277" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124277"><div class="ancestor-wrapper"><a href="https://gunjigraphics.com/product-category/tank-encyclopedia/">Merchandise</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-120895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120895"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/contact-us/">Contact Us</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-131672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-131672"><div class="ancestor-wrapper"><a rel="privacy-policy" href="https://tanks-encyclopedia.com/privacy-policy">Privacy Policy</a></div><!-- .ancestor-wrapper --></li>
+<li id="menu-item-120896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120896"><div class="ancestor-wrapper"><a href="https://tanks-encyclopedia.com/goodies/legal-mentions.php">Legal Mentions</a></div><!-- .ancestor-wrapper --></li>
+
+						</ul>
+
+					</nav>
+
+					
+			</div><!-- .menu-top -->
+
+			<div class="menu-bottom">
+
+				
+					<nav aria-label="Expanded Social links">
+						<ul class="social-menu reset-list-style social-icons fill-children-current-color">
+
+							
+						</ul>
+					</nav><!-- .social-menu -->
+
+				
+			</div><!-- .menu-bottom -->
+
+		</div><!-- .menu-wrapper -->
+
+	</div><!-- .menu-modal-inner -->
+
+</div><!-- .menu-modal -->
+
+<main id="site-content">
+
+	
+<article class="post-605 page type-page status-publish hentry" id="post-605">
+
+	
+<header class="entry-header has-text-align-center header-footer-group">
+
+	<div class="entry-header-inner section-inner medium">
+
+		<h1 class="entry-title">Tank Encyclopedia</h1>
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner  ">
+
+		<div class="entry-content">
+
+			<div id="no_index">
+<div style="margin-top: -60px;" align="center"><!--<a href="https://youtu.be/5oAuUsrrzOQ"><img decoding="async" class="aligncenter" src="https://tanks-encyclopedia.com/wp-content/uploads/2020/09/maxresdefault-9-1024x576.jpg" /></div>
+
+
+
+
+<h3>Turán III from IBG Models in 1/72 - TE Modelling Video #13</h3>
+
+</a>
+
+
+<h5><a href="https://tanks-encyclopedia.com/barnes-two-man-heavy-tank/">Read the article: Gen. Barnes Two Man Heavy Tank</a></h5>
+
+--> 		<div class="wppsac-wrap wppsac-slick-carousel-wrp wppsac-clearfix " data-conf="{&quot;slides_to_show&quot;:3,&quot;slides_to_scroll&quot;:1,&quot;dots&quot;:&quot;true&quot;,&quot;arrows&quot;:&quot;true&quot;,&quot;autoplay&quot;:&quot;true&quot;,&quot;autoplay_interval&quot;:3000,&quot;speed&quot;:500,&quot;rtl&quot;:&quot;false&quot;,&quot;lazyload&quot;:&quot;&quot;}">
+			<div id="wppsac-post-carousel-1" class="wppsac-post-slider-init wppsac-post-carousel design-1">
+				<div class="wppsac-carousel-slides">
+		<div class="wppsac-post-image-bg">
+		<a href="https://tanks-encyclopedia.com/pegaso-3500/">
+			<img class="wppsac-post-image"  src="https://tanks-encyclopedia.com/wp-content/uploads/2023/08/pegaso3500_2.png" alt="Pegaso 3500" />
+		</a>
+	</div>
+	
+	<div class="wppsac-post-content-position">
+				<div class="wppsac-post-categories"><ul class="wppsac-post-categories-list"><li><a href="https://tanks-encyclopedia.com/category/cold-war-spanish-prototypes/">Cold War Spanish Prototypes</a></li></ul></div>
+		
+		<h2 class="wppsac-post-title">
+			<a href="https://tanks-encyclopedia.com/pegaso-3500/">Pegaso 3500</a>
+		</h2>
+
+				<div class="wppsac-post-date">
+						<span>By Gareth Lynn Montes</span>
+			 / August 14, 2023		</div>
+				<div class="wppsac-post-content">
+			<div class="wppsac-sub-content">Spanish State (1973-1974) Armored Personnel Carrier – One prototype Perhaps one of the biggest success stories of the Spanish military...</div>
+
+						<a class="wppsac-readmorebtn" href="https://tanks-encyclopedia.com/pegaso-3500/">Read More</a>
+					</div>
+			</div>
+</div><div class="wppsac-carousel-slides">
+		<div class="wppsac-post-image-bg">
+		<a href="https://tanks-encyclopedia.com/jgpz4-yt">
+			<img class="wppsac-post-image"  src="https://tanks-encyclopedia.com/wp-content/uploads/2023/08/Jagdpanzer_IV_thumbnail.png" alt="Powerful and Easy to Build | Jagdpanzer IV and Panzer IV/70(V)" />
+		</a>
+	</div>
+	
+	<div class="wppsac-post-content-position">
+				<div class="wppsac-post-categories"><ul class="wppsac-post-categories-list"><li><a href="https://tanks-encyclopedia.com/category/uncategorized/">Uncategorized</a></li></ul></div>
+		
+		<h2 class="wppsac-post-title">
+			<a href="https://tanks-encyclopedia.com/jgpz4-yt">Powerful and Easy to Build | Jagdpanzer IV and Panzer IV/70(V)</a>
+		</h2>
+
+				<div class="wppsac-post-date">
+						<span>By Guest Writer</span>
+			 / August 11, 2023		</div>
+				<div class="wppsac-post-content">
+			<div class="wppsac-sub-content"></div>
+
+						<a class="wppsac-readmorebtn" href="https://tanks-encyclopedia.com/jgpz4-yt">Read More</a>
+					</div>
+			</div>
+</div><div class="wppsac-carousel-slides">
+		<div class="wppsac-post-image-bg">
+		<a href="https://tanks-encyclopedia.com/temag8">
+			<img class="wppsac-post-image"  src="https://tanks-encyclopedia.com/wp-content/uploads/2023/06/Screenshot-2023-06-25-112918.png" alt="Tank Encyclopedia Magazine #8 is now available. FOR FREE! Get yours now!" />
+		</a>
+	</div>
+	
+	<div class="wppsac-post-content-position">
+				<div class="wppsac-post-categories"><ul class="wppsac-post-categories-list"><li><a href="https://tanks-encyclopedia.com/category/uncategorized/">Uncategorized</a></li></ul></div>
+		
+		<h2 class="wppsac-post-title">
+			<a href="https://tanks-encyclopedia.com/temag8">Tank Encyclopedia Magazine #8 is now available. FOR FREE! Get yours now!</a>
+		</h2>
+
+				<div class="wppsac-post-date">
+						<span>By Stan Lucian</span>
+			 / August 11, 2023		</div>
+				<div class="wppsac-post-content">
+			<div class="wppsac-sub-content"></div>
+
+						<a class="wppsac-readmorebtn" href="https://tanks-encyclopedia.com/temag8">Read More</a>
+					</div>
+			</div>
+</div><div class="wppsac-carousel-slides">
+		<div class="wppsac-post-image-bg">
+		<a href="https://tanks-encyclopedia.com/rozanovs-destroyer-tank-of-heavy-type/">
+			<img class="wppsac-post-image"  src="https://tanks-encyclopedia.com/wp-content/uploads/2023/08/Rozanov.png" alt="Rozanov’s Destroyer Tank of Heavy Type" />
+		</a>
+	</div>
+	
+	<div class="wppsac-post-content-position">
+				<div class="wppsac-post-categories"><ul class="wppsac-post-categories-list"><li><a href="https://tanks-encyclopedia.com/category/ww2-soviet-medium-tank-prototypes/">WW2 Soviet Medium Tank Prototypes</a></li><li><a href="https://tanks-encyclopedia.com/category/ww2-soviet-spg-prototypes/">WW2 Soviet SPG Prototypes</a></li></ul></div>
+		
+		<h2 class="wppsac-post-title">
+			<a href="https://tanks-encyclopedia.com/rozanovs-destroyer-tank-of-heavy-type/">Rozanov’s Destroyer Tank of Heavy Type</a>
+		</h2>
+
+				<div class="wppsac-post-date">
+						<span>By Pavel Alexe</span>
+			 / August 9, 2023		</div>
+				<div class="wppsac-post-content">
+			<div class="wppsac-sub-content">Soviet Union (1944) Heavy Tank Destroyer - Drawings only The efforts and hardships that nations endure during war, both military...</div>
+
+						<a class="wppsac-readmorebtn" href="https://tanks-encyclopedia.com/rozanovs-destroyer-tank-of-heavy-type/">Read More</a>
+					</div>
+			</div>
+</div><div class="wppsac-carousel-slides">
+		<div class="wppsac-post-image-bg">
+		<a href="https://tanks-encyclopedia.com/ww2/germany/gepanzerte-selbstfahrlafette-fur-7-5-cm-l-41-sturmgeschutz-iii/">
+			<img class="wppsac-post-image"  src="https://tanks-encyclopedia.com/wp-content/uploads/2023/08/StuGIII_Krupp.png" alt="Gepanzerte Selbstfahrlafette für 7.5 cm L/41 Sturmgeschütz III" />
+		</a>
+	</div>
+	
+	<div class="wppsac-post-content-position">
+				<div class="wppsac-post-categories"><ul class="wppsac-post-categories-list"><li><a href="https://tanks-encyclopedia.com/category/ww2-german-stug-iii/">WW2 German StuG III</a></li></ul></div>
+		
+		<h2 class="wppsac-post-title">
+			<a href="https://tanks-encyclopedia.com/ww2/germany/gepanzerte-selbstfahrlafette-fur-7-5-cm-l-41-sturmgeschutz-iii/">Gepanzerte Selbstfahrlafette für 7.5 cm L/41 Sturmgeschütz III</a>
+		</h2>
+
+				<div class="wppsac-post-date">
+						<span>By MarkoPantelic</span>
+			 / August 7, 2023		</div>
+				<div class="wppsac-post-content">
+			<div class="wppsac-sub-content">German Reich (1941) Self-Propelled Assault Gun – At Least 1 Prototype Built During the battles across the Soviet Union and...</div>
+
+						<a class="wppsac-readmorebtn" href="https://tanks-encyclopedia.com/ww2/germany/gepanzerte-selbstfahrlafette-fur-7-5-cm-l-41-sturmgeschutz-iii/">Read More</a>
+					</div>
+			</div>
+</div><div class="wppsac-carousel-slides">
+		<div class="wppsac-post-image-bg">
+		<a href="https://tanks-encyclopedia.com/autocarro-fiat-666n/">
+			<img class="wppsac-post-image"  src="https://tanks-encyclopedia.com/wp-content/uploads/2023/08/Fiat666N1.png" alt="Autocarro FIAT 666N" />
+		</a>
+	</div>
+	
+	<div class="wppsac-post-content-position">
+				<div class="wppsac-post-categories"><ul class="wppsac-post-categories-list"><li><a href="https://tanks-encyclopedia.com/category/cold-war-italian-armor/">Cold War Italian Armor</a></li><li><a href="https://tanks-encyclopedia.com/category/ww2-italian-trucks/">WW2 Italian Trucks</a></li><li><a href="https://tanks-encyclopedia.com/category/ww2-rsi-armor/">WW2 RSI Armor</a></li></ul></div>
+		
+		<h2 class="wppsac-post-title">
+			<a href="https://tanks-encyclopedia.com/autocarro-fiat-666n/">Autocarro FIAT 666N</a>
+		</h2>
+
+				<div class="wppsac-post-date">
+						<span>By Arturo Giusti</span>
+			 / August 2, 2023		</div>
+				<div class="wppsac-post-content">
+			<div class="wppsac-sub-content">Kingdom of Italy/Italian Social Republic/Italian Republic (1939-1948) Heavy Duty Truck – 8,000 Built The Autocarro FIAT 666N (English: FIAT 666N...</div>
+
+						<a class="wppsac-readmorebtn" href="https://tanks-encyclopedia.com/autocarro-fiat-666n/">Read More</a>
+					</div>
+			</div>
+</div><div class="wppsac-carousel-slides">
+		<div class="wppsac-post-image-bg">
+		<a href="https://tanks-encyclopedia.com/coldwar/france/piaggio-vespa-tap-56-and-59/">
+			<img class="wppsac-post-image"  src="https://tanks-encyclopedia.com/wp-content/uploads/2023/07/VespaYellow.png" alt="Piaggio Vespa TAP 56 and 59" />
+		</a>
+	</div>
+	
+	<div class="wppsac-post-content-position">
+				<div class="wppsac-post-categories"><ul class="wppsac-post-categories-list"><li><a href="https://tanks-encyclopedia.com/category/cold-war-french-unarmored-vehicles/">Cold War French Unarmored Vehicles</a></li></ul></div>
+		
+		<h2 class="wppsac-post-title">
+			<a href="https://tanks-encyclopedia.com/coldwar/france/piaggio-vespa-tap-56-and-59/">Piaggio Vespa TAP 56 and 59</a>
+		</h2>
+
+				<div class="wppsac-post-date">
+						<span>By Daniele Notaro</span>
+			 / July 31, 2023		</div>
+				<div class="wppsac-post-content">
+			<div class="wppsac-sub-content">France (1956-1960) Anti-Tank Weapon Carrier - 600~800 Built The Piaggio Vespa TAP [Troupes AéroPortées] (English: Airborne troops) 56 and 59...</div>
+
+						<a class="wppsac-readmorebtn" href="https://tanks-encyclopedia.com/coldwar/france/piaggio-vespa-tap-56-and-59/">Read More</a>
+					</div>
+			</div>
+</div><div class="wppsac-carousel-slides">
+		<div class="wppsac-post-image-bg">
+		<a href="https://tanks-encyclopedia.com/kv-4-object-224-buganov/">
+			<img class="wppsac-post-image"  src="https://tanks-encyclopedia.com/wp-content/uploads/2023/07/kv-4-Buganov.png" alt="KV-4 (Object 224) Buganov" />
+		</a>
+	</div>
+	
+	<div class="wppsac-post-content-position">
+				<div class="wppsac-post-categories"><ul class="wppsac-post-categories-list"><li><a href="https://tanks-encyclopedia.com/category/ww2-soviet-kv-4/">WW2 Soviet KV-4</a></li></ul></div>
+		
+		<h2 class="wppsac-post-title">
+			<a href="https://tanks-encyclopedia.com/kv-4-object-224-buganov/">KV-4 (Object 224) Buganov</a>
+		</h2>
+
+				<div class="wppsac-post-date">
+						<span>By Pavel Alexe</span>
+			 / July 26, 2023		</div>
+				<div class="wppsac-post-content">
+			<div class="wppsac-sub-content">Soviet Union (1941) Super Heavy Tank – Blueprints Only In spring of 1941, the Soviets were working on KV-1 replacements...</div>
+
+						<a class="wppsac-readmorebtn" href="https://tanks-encyclopedia.com/kv-4-object-224-buganov/">Read More</a>
+					</div>
+			</div>
+</div>			</div>
+		</div>
+	</p>
+<hr>
+<div style="background-color: #000000b3"; align="center" >
+<p style="color: #f6dd95"><strong>Tank Encyclopedia<small>®</small>: The destination for tank enthusiasts since 2014</strong></p>
+</div>
+<div>Tank Encyclopedia is the place to learn about the history of armored vehicles, from their early inspirations and pioneers to the latest main battle tanks. Our painstakingly researched articles cover many nations and all eras of armor development, accompanied by our beautiful and iconic illustrations. We cover a wide swathe of armored vehicle designs ranging from bridge-layers and engineering vehicles, to tank destroyers and armored personnel carriers. You can also find articles on soft-skinned vehicles, anti-tank weaponry, tactics, battles, and technology.</div>
+<div style="margin-top: 15px"; text-align="justify" >Tank Encyclopedia continues to be a work-in-progress largely carried out by volunteers. As a reader, you can help to improve our site. If you spot something wrong, please let us know. If you feel something is missing, please add it to our <a class="coloredLink" href="https://docs.google.com/spreadsheets/d/1p0Ll9TITGDiF9_fdS-tv1797JBs0_-pB70ReE_kIRkE/edit#gid=1911430820">Public Suggestion List</a>. And please, support us! <span style="display: inline-block; padding-bottom: 5px;"><a href="https://www.patreon.com/tankartfund"> <img decoding="async" style="max-width: 25px; height: 15px;" src="images/patreon.svg" alt="patreon" /> </a></span> <span style="display: inline-block;"><a href="https://www.paypal.com/paypalme/tankencyclopedia"> <img decoding="async" style="max-width: 25px; height: 15px;" src="images/paypal.svg" alt="paypal" /> </a></span></div>
+<hr>
+<h3>The Four Eras We Cover:</h3>
+<p><a class="coloredLink" title="ww1 era tanks and armoured cars" href="/ww1-tanks/"><img decoding="async" class="alignleft size-medium" src="/static/images/ww1.gif" alt="ww1 era tanks and armoured cars" width="250" /> <strong>WW1 &#8211; Mud, Barbed Wire, and Trenches:</strong></a> The United Kingdom and France started development of tanks in order to break through enemy lines. However, many pioneers had envisioned the use of armored vehicles in the decades prior to the Great War. Soon after its introduction, the tank quickly became a killing machine integrated into combined arms operations.</p>
+<p><a class="coloredLink" href="/world-war-two-tanks/"><img decoding="async" class="alignright size-medium" src="/static/images/ww2.gif" alt="WW2 Tanks" width="250" /><strong>WW2 &#8211; The Tank Goes Global:</strong></a> The Interwar period saw the tank go on a worldwide tour, from Bolivia to China, every corner of the globe and all seven continents felt the tread of heavy armor. Even so, many were unconvinced by this new weapon of war. World War Two would change these perceptions, and see tanks used in unprecedented numbers across all theaters of war.</p>
+<p><a class="coloredLink" href="/cold-war-tanks-php/"><img decoding="async" class="alignleft size-medium" src="/static/images/coldwar.gif" alt="Cold war tanks and AFVs" width="250" /><strong>Cold War &#8211; East vs West:</strong></a> In a period dominated by nuclear weapons, two opposing superpowers led to the splitting of the world into East and West. Although the USA and USSR never fought each other directly, almost all proxy wars of the period saw extensive usage of their tanks.</p>
+<p><a class="coloredLink" href="/modern-tanks/"><img decoding="async" class="alignright size-medium" src="/static/images/moderntanks.gif" alt="modern tanks and AFVs" width="250" /><strong>Modern Era &#8211; Are Tanks Still Relevant?:</strong></a> Despite numerous prophets heralding the demise of the tank, armor is still an important part of all the world’s militaries. The modern battlefield shows no signs of this changing soon, with the development of tanks continuing to adapt to it.</p>
+<hr>
+<div style="background-color: #6e7653"; align="center" >
+<p style="color: #f6dd95"; text-align="justify" ><strong>&#9888; About Illustrations on this site:</strong> You are free to use and share tank illustrations from this site for <strong>personal use only</strong>. For any <a href="https://tanks-encyclopedia.com/tanks-illustrations/licencing/"; style="color:#f6dd95">commercial use</a>, including on YouTube (since most videos run ads) please contact us via the <a href="https://tanks-encyclopedia.com/contact-us"; style="color:#f6dd95">contact form</a>. Tank Encyclopedia can offer licenses for one-time use or global licensing for larger, long-term use.</div>
+<div style="max-width: 70%;">
+<h3>Featuring</h3>
+<p><a href="/posters/"><img decoding="async" class="responsive" src="/static/images/merchandise.gif" alt="Merchandise" /></a><a href="https://payhip.com/TankEncyclopedia" target="_blank" rel="noopener noreferrer"><img decoding="async" src="static/images/mag.gif" alt="review" width="290" height="220" /></a><a href="/posters/book-shop/" target="_blank" rel="noopener noreferrer"><img decoding="async" class="responsive" src="static/images/books.gif" alt="Books" /></a><a href="/meet-the-team/"><img decoding="async" class="responsive" src="static/images/team.gif" alt="Meet The Team" /></a><a href="https://gunjigraphics.com/product-category/tank-encyclopedia/"><img decoding="async" src="static/images/merch.gif" alt="" width="290" height="220" /></a><a href="https://tank-afv.com"><img decoding="async" src="/static/images/archives.gif" alt="archives" width="290" height="220" /></a></div>
+</div>
+<div style="background-color: #6e7653"; align="center" >
+<h2 style="color: #f6dd95; margin-top: 15px;">Partner Sites</h2>
+<p><a href="https://www.plane-encyclopedia.com/" rel="dofollow"><img decoding="async" title="Plane Encyclopedia" src="static/images/logo-PE.gif" /></a> <a href="https://www.naval-encyclopedia.com/" rel="nofollow"><img decoding="async" title="Naval Encyclopedia" src="static/images/logo-NE.gif" /></a> <a href="https://www.ontrmuseum.ca/"><img decoding="async" src="/static/images/logo-Ontario.gif" /></a></div>
+<hr />
+<p><!--SOCIAL--></p>
+<div align="center">
+<div style="max-width: 70%;">
+Want to join our community and chat to members of our team? Join the <a href="https://discordapp.com/invite/ArKtg6q">TECC Discord server</a>!</p>
+<h2>Follow us on Twitter</h2>
+<p><a class="twitter-timeline" href="https://twitter.com/tanksenc" data-tweet-limit="3">Tweets by tanksenc</a> <a class="twitter-follow-button" href="https://twitter.com/dbodesign" data-show-count="true">Follow @tanksenc</a> <script async src="https://platform.twitter.com/widgets.js" width="100%" charset="utf-8"></script></div>
+</div>
+</div>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+
+</main><!-- #site-content -->
+
+
+	<div class="footer-nav-widgets-wrapper header-footer-group">
+
+		<div class="footer-inner section-inner">
+
+							<div class="footer-top has-footer-menu has-social-menu">
+					
+						<nav aria-label="Footer" class="footer-menu-wrapper">
+
+							<ul class="footer-menu reset-list-style">
+															</ul>
+
+						</nav><!-- .site-nav -->
+
+										
+						<nav aria-label="Social links" class="footer-social-wrapper">
+
+							<ul class="social-menu footer-social reset-list-style social-icons fill-children-current-color">
+
+								
+							</ul><!-- .footer-social -->
+
+						</nav><!-- .footer-social-wrapper -->
+
+									</div><!-- .footer-top -->
+
+			
+			
+				<aside class="footer-widgets-outer-wrapper">
+
+					<div class="footer-widgets-wrapper">
+
+						
+							<div class="footer-widgets column-one grid-item">
+								<div class="widget widget_search"><div class="widget-content"><form role="search"  method="get" class="search-form" action="https://tanks-encyclopedia.com/">
+	<label for="search-form-2">
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" id="search-form-2" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+	<input type="submit" class="search-submit" value="Search" />
+</form>
+</div></div>
+		<div class="widget widget_recent_entries"><div class="widget-content">
+		<h2 class="widget-title subheading heading-size-3">Recent Posts</h2><nav aria-label="Recent Posts">
+		<ul>
+											<li>
+					<a href="https://tanks-encyclopedia.com/pegaso-3500/">Pegaso 3500</a>
+									</li>
+											<li>
+					<a href="https://tanks-encyclopedia.com/jgpz4-yt">Powerful and Easy to Build | Jagdpanzer IV and Panzer IV/70(V)</a>
+									</li>
+											<li>
+					<a href="https://tanks-encyclopedia.com/temag8">Tank Encyclopedia Magazine #8 is now available. FOR FREE! Get yours now!</a>
+									</li>
+											<li>
+					<a href="https://tanks-encyclopedia.com/rozanovs-destroyer-tank-of-heavy-type/">Rozanov’s Destroyer Tank of Heavy Type</a>
+									</li>
+											<li>
+					<a href="https://tanks-encyclopedia.com/ww2/germany/gepanzerte-selbstfahrlafette-fur-7-5-cm-l-41-sturmgeschutz-iii/">Gepanzerte Selbstfahrlafette für 7.5 cm L/41 Sturmgeschütz III</a>
+									</li>
+					</ul>
+
+		</nav></div></div>							</div>
+
+						
+						
+							<div class="footer-widgets column-two grid-item">
+								<div class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><div class="textwidget custom-html-widget"><strong>Support us on PATREON</strong><br>
+<a href='https://www.patreon.com/tankartfund' target="_blank" rel="noopener"><img src="https://www.tanks-encyclopedia.com/static/images/logo-Patreon-TE.gif" alt="Patreon"></a></div></div></div><div class="widget widget_nav_menu"><div class="widget-content"></div></div><div class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><div class="textwidget custom-html-widget"><div data-aaad='true' data-aa-adunit='/22247219933/TNKE_300v_2'></div>
+<div data-aaad='true' data-aa-adunit='/22815767462/TNKE_300v_2'></div></div></div></div>							</div>
+
+						
+					</div><!-- .footer-widgets-wrapper -->
+
+				</aside><!-- .footer-widgets-outer-wrapper -->
+
+			
+		</div><!-- .footer-inner -->
+
+	</div><!-- .footer-nav-widgets-wrapper -->
+
+	
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+var slot = googletag.defineOutOfPageSlot(
+'/22815767462/TNKE_Vignette',
+googletag.enums.OutOfPageFormat.INTERSTITIAL);
+if (slot) slot.addService(googletag.pubads());
+googletag.enableServices();
+googletag.display(slot);
+});
+</script>
+<div data-aaad='true' data-aa-adunit='/22815767462/TNKE_Mob_320v_sticky_1'></div>
+<div align="center" data-aaad='true' data-aa-adunit='/22815767462/TNKE_970x90v_5'></div>
+			<footer id="site-footer" class="header-footer-group">
+				<div class="section-inner">
+					<div class="footer-credits">
+						<p class="footer-copyright">&copy;
+							2023							<a href="https://tanks-encyclopedia.com/">Tank Encyclopedia</a>
+						</p><!-- .footer-copyright -->
+
+						<p class="privacy-policy"><a class="privacy-policy-link" href="https://tanks-encyclopedia.com/privacy-policy" rel="privacy-policy">Privacy Policy</a></p>
+						<p class="powered-by-wordpress">
+							<a href="https://wordpress.org/">
+								Powered by WordPress							</a>
+						</p><!-- .powered-by-wordpress -->
+
+					</div><!-- .footer-credits -->
+
+					<a class="to-the-top" href="#site-header">
+						<span class="to-the-top-long">
+							To the top <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-long -->
+						<span class="to-the-top-short">
+							Up <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-short -->
+					</a><!-- .to-the-top -->
+				</div><!-- .section-inner -->
+			</footer><!-- #site-footer -->
+		<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_to_top.js?ver=2.4' id='tec-to-top-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_dm_placer.js?ver=2.2' id='tec-dark-mode-create-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_donation.js?ver=2.4' id='tec-donation-init-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_mobile_comp_init.js?ver=2.2' id='tec-mobile-init-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_header_follow.js?ver=2.1' id='tec-header-follow-init-js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js?ver=b83f79ee4c56df548cbba7f349d0a40b' id='jquery531-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_gallery.js?ver=2.9' id='tec-gallery-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/wp-responsive-recent-post-slider/assets/js/slick.min.js?ver=3.3.1' id='wpos-slick-jquery-js'></script>
+<script id='wppsac-public-script-js-extra'>
+var Wppsac = {"elementor_preview":"0","is_mobile":"0","is_rtl":"0","is_avada":"0"};
+</script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/wp-responsive-recent-post-slider/assets/js/wppsac-public.js?ver=3.3.1' id='wppsac-public-script-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_random_article.js?ver=2.5' id='tec-random-article-init-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_index.js?ver=2.2' id='tec-index-gen-js'></script>
+<script src='https://tanks-encyclopedia.com/wp-content/plugins/te-custom-mods/includes/js/tec_dm_init.js?ver=3.3' id='tec-dark-mode-init-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+		<script>(function(){var js = "window['__CF$cv$params']={r:'7f6db2210f7a23ab',t:'MTY5MjA2MzI3My4zOTIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+<!-- Dynamic page generated in 0.576 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2023-08-15 01:11:19 -->
+
+<!-- super cache -->
