@@ -1,0 +1,1226 @@
+{
+  "-UO-T-7z4Lsn5htwKzbd": {
+    "ammunition": {
+      "AP": "1500",
+      "Ball": "1500",
+      "Tracer": "1500"
+    },
+    "calibre": "7.62mm",
+    "description": "The PK machine gun is a belt fed general-purpose machine gun, chambered in 7.62x54mm ammunition. It is one of the primary light machine guns in the Soviet, and now Russian arsenal. The naming convention varies depending on its use; PKS,PKM,PKT& PKMT are all the same weapon system. The PKT & PKMT are coaxial vehicle mounted, whilst the PKM is dismounted. The PKS is light-role, tripod mounted.",
+    "descriptor": "PK machine gun",
+    "image": "pkt_zpwk1x643j9edmadqya5.jpg",
+    "name": "PKT"
+  },
+  "-_tMNAevy1ki65tnQr9b": {
+    "ammunition": {
+      "AP": "8800",
+      "HE": "8800"
+    },
+    "calibre": "57",
+    "description": "The S-68 autocannon is a modified version of the AZP S-60, designed for use in the ZSU 57-2. The gun can fire up 240 rounds per minute.",
+    "descriptor": "57mm autocannon",
+    "image": "s68_jxnvcu5o0fxkrujg10z6.jpg",
+    "name": "S-68"
+  },
+  "-ribLdPyFBEqpY2oioTJ": {
+    "ammunition": {
+      "Ball": "1500",
+      "Tracer": "1500"
+    },
+    "calibre": "12.7mm",
+    "description": "The KORD is a Russian 12.7mm HMG, designed to replace the older NSVT, externally it is quite similar to the NSVT. However the internal mechanisms are all new, as well as a new gas system. This allows greater accuracy during sustained fire. It is fitted to later Russian tanks.",
+    "descriptor": "Russian Heavy Machine Gun",
+    "image": "kord_lshulqc67ql2zut2dd33.jpg",
+    "name": "KORD"
+  },
+  "03mMgpWCeWFUv1ItadWE": {
+    "ammunition": {
+      "Ball": "1000",
+      "Tracer": "1000"
+    },
+    "calibre": "7.62mm",
+    "description": "The RPK is a modified AK47, used as a squad support weapon. It has a longer and thicker barrel than the AK47, allowed it to engage targets for longer periods at a rapid rate of fire. A tripod enables the weapon to sustain accurate fire out to 1000 metres. It is comparable to the now out of service LSW, albeit a larger calibre. It is fed via 40 round magazine or 75 round drum. The RPK-74 is the adapted version of the AK74 and is 5.45 in calibre.",
+    "descriptor": "Kalashnikov LMG",
+    "image": "rpk_wkm2rqtrhq14amtzfd7u.jpg",
+    "name": "RPK"
+  },
+  "0WIeh4lfR7vaWQM_6Za7": {
+    "ammunition": {
+      "9M528": "90",
+      "9M55C": "70",
+      "9M55F": "70",
+      "9M55K": "70",
+      "9M55K1": "70",
+      "9M55K4": "70",
+      "9M55K5": "70"
+    },
+    "calibre": 300,
+    "description": "The 9M55 family of rockets were designed for use with hte BM-30 Smerch. They are 300mm in calibre and capable of firing a range of ammunition types. The DPICM designations are as follows:\n\n9M55K: Anti-personnel\n\n9M55K1: Guided anti-tank\n\n9M55K4: Anti-tank mines\n\n9M55K5: High explosive bomblet",
+    "descriptor": "BM-30 Smerch rocket",
+    "image": "9m55_v8ftrdja23kjiwzfw0k2.jpg",
+    "name": "9M55"
+  },
+  "0r-ygpoiBK-DhUee4cyQ": {
+    "ammunition": {
+      "Detect": "150km"
+    },
+    "calibre": "N/A",
+    "description": "The 9S18 is the family of radars that acquire targets for the Buk surface to air missile system. Originally named the 'Tube Arm', it has been upgraded to the 'Snow Drift' with various software upgrades for use with the Buk M2 & Buk M3.",
+    "descriptor": "'Snow Drift'",
+    "image": "9s18_gdluhjrbcupbvxp51tez.jpg",
+    "name": "9S18"
+  },
+  "1kR470cPSNMu_EmX5H92": {
+    "ammunition": {
+      "DPICM": "15400",
+      "HE": "15400",
+      "Illum": "15400",
+      "RAP": "21000",
+      "Smoke": "15400"
+    },
+    "calibre": 122,
+    "description": "The 122mm 2A18 artillery barrel is used in the D-30 and 2S1 howitzers. It is comparable to NATO 105mm systems. It is 4.6m long and has an above barrel recoil system. The muzzle brake produces about twice the overpressure in the area around the gun that is acceptable to Western armies, and is the reason it is often seen being fired with a long lanyard, which reduces rate of fire.",
+    "descriptor": "Soviet 122mm Artillery Barrel",
+    "image": "2a18_qe2ff110werzj1ovndz8.jpg",
+    "name": "2A18"
+  },
+  "1oC3bR5IwrpHKPTagE3Q": {
+    "ammunition": {
+      "Detect": "10000"
+    },
+    "calibre": "N/A",
+    "description": "The 9S86 'Snap Shot' radar is a range only radar and works in conjunction with the 9S16 'Flat Box' radar to triangulate aircraft positions. The missile system on the SA-9 is IR guided. ",
+    "descriptor": "'Snap Shot' radar ",
+    "image": "9s86_cdx4nf32qz9csxuefye4.jpg",
+    "name": "9S86"
+  },
+  "4429S5B6MSUDWUlRt0A6": {
+    "ammunition": {
+      "API-T": "2000",
+      "HEI-T": "3000"
+    },
+    "calibre": 14.5,
+    "description": "The KPVT is a Soviet/Russian heavy machine gun produced from 1949 to the present by the Degtyarvyov plant. It was originally an infantry weapon but was found to be too heavy, it then found use as an AAMG, due to its good light anti armour performance it subsequently found use in the BRDM and BTR series of vehicles.",
+    "descriptor": "KPVT heavy machine gun",
+    "image": "kpvt_6uzk9ajjwkwup0o25ynh.jpg",
+    "name": "KPVT"
+  },
+  "4KtKMxD7ARfgGWHk6cUz": {
+    "ammunition": {
+      "AP": "1500",
+      "HE": "1500",
+      "HEI-T": "4000"
+    },
+    "calibre": "30",
+    "description": "The ZPT-99 is a 30mm automatic cannon based on the Russian 2A72 cannon, it is essentially an unlicensed copy.",
+    "descriptor": "30mm autocannon",
+    "image": "zpt99_u6y5xd8arnmez3rlisbt.jpg",
+    "name": "ZPT-99"
+  },
+  "5DkY8C7YcuMaUmiQffT5": {
+    "ammunition": {
+      "9M27F": "35",
+      "9M27K": "35",
+      "9M27K2": "35",
+      "9M27K3": "34",
+      "9M59": "35"
+    },
+    "calibre": 220,
+    "description": "The 9M27 series is a series of 220mm artillery rockets of Soviet origin. The 9M27 series was developed for the BM-27 Uralagan. The DPICM variants have the following definitions:\n\n9M27K: Anti-material bomblet\n\n9M27K2: Anti-tank mine (1kg)\n\n9M27K3: Anti-personnel mine\n\n9M59: Anti-tank mine (2kg)",
+    "descriptor": "BM-27 multi-purpose rocket",
+    "image": "9m27_159lr0owdvuus9gwlbqu.jpg",
+    "name": "9M27"
+  },
+  "5UEW_iOOcSDj794-CKc3": {
+    "ammunition": {
+      "HE": "1700",
+      "Smoke": "1700"
+    },
+    "calibre": "30",
+    "description": "The AGS-17 Plamya, which means flame in Russian, is a Soviet era grenade machine gun. It is mounted on a variety of vehicles but can also be used in the light role when mounted on a tripod. It fires HE or smoke rounds from either a belt or drum magazine. The AGS-17 has been in constant service since 1970. The Ukrainian version of the AGS-17 is known as the KBA-117.",
+    "descriptor": "Grenade machine gun",
+    "image": "ags17_pxlzwwkenp6gyn46hde0.jpg",
+    "name": "AGS-17"
+  },
+  "78MCKTQhKZXueRRh4kF-": {
+    "ammunition": {
+      "AP": "3500",
+      "HE": "3500"
+    },
+    "calibre": "35mm",
+    "description": "The Oerlikon GDF is a Swiss 35mm AA autocannon, it is gas operated and has a rate of fire of 550rpm.",
+    "descriptor": "Twin-cannon air defence gun",
+    "image": "oerlikongdf_7t0kc2ky28m3ts0tx7it.jpg",
+    "name": "Oerlikon-GDF"
+  },
+  "7lnwxNM4JS9Wp8o7645j": {
+    "ammunition": {
+      "Detect": "Unknown"
+    },
+    "calibre": "N/A",
+    "description": "The 9S16 'Flat Box' radar is a passive detection system used on the Strela-10 SA-9 'Gaskin'. The system consists of four sensors placed around the BRDM TLAR vehicle.",
+    "descriptor": "'Flat Box' radar ",
+    "image": "9s16_1qtstf9lrgnpr51tafvp.jpg",
+    "name": "9S16"
+  },
+  "88AChQ1aGsbxjD_R3e5H": {
+    "ammunition": {
+      "HEAT": "3000"
+    },
+    "calibre": "120",
+    "description": "                The HJ-73 ‘Red Arrow’ is a direct copy of the Soviet 9K11 Malyutka, despite it’s old age and ineffectiveness against modern armour, it still sees wide use in the PLAGF. \r\n            ",
+    "descriptor": "'Red Arrow' ATGM",
+    "image": "hj73_h2dk3dk7yt0np4zeii45.jpg",
+    "name": "HJ-73"
+  },
+  "EBqq7Q6VbLccNZCuzGCX": {
+    "ammunition": {
+      "9M333": "5000",
+      "9M37": "5000",
+      "9M37M": "5000"
+    },
+    "calibre": 120,
+    "description": "The 9M37 is a progression of the 9M31 missile used on the Strela-1. The engagement altitude is between 10 and 3500 metres. It is IR guided, the Strela-10's 9S86 'Snap Shot' and 9S16 'Flat Box' radars provide the initial range and bearing to the target. Later improvements to the system, the 9M37M and 9M333 did not improve the range, but instead focused on increased accuracy, lethality and counter-measures.",
+    "descriptor": "Strela-10 surface to air missile",
+    "image": "9m37_1bya9udcp3y6dae4hzdp.jpg",
+    "name": "9M37"
+  },
+  "Ec3Vv_DPr3LVgcd0m_m3": {
+    "ammunition": {
+      "Kornet": "5500",
+      "Kornet-EM": "8000"
+    },
+    "calibre": 100,
+    "description": "In service since 1998, the AT-14 (GRAU: 9M133 Kornet) is a highly capable anti-tank guided missile. It is laser guided and has an accuracy of 5 metres. There are HEAT and thermobaric variants for use against different type of vehicles.",
+    "descriptor": "AT-14 Spriggan",
+    "image": "9m133_2jt1bh39cf001yysqt57.jpg",
+    "name": "9M133"
+  },
+  "Hdtp1rboDMPbXPFqFYhn": {
+    "ammunition": {
+      "AP": "1000",
+      "Ball": "1000",
+      "Tracer": "1000"
+    },
+    "calibre": "5.8",
+    "description": "The QJT-88 is a Chinese 5.8x42mm coaxial machine gun based on the QJY-88 general purpose machine gun. Produced by Norinco it achieves a 650-700rpm and is the main machine gun in the PLA. It’s small calibre greatly reduces the effective range when compared to NATO and Russian tanks that typically go for a 7.62mm calibre for coaxial machine guns.",
+    "descriptor": "5.8mm coaxial machine gun",
+    "image": "qjt88_eet6ovsfdb20b07z9yn0.jpg",
+    "name": "QJT-88"
+  },
+  "HhyTCOoRs7adZMEQtQk2": {
+    "ammunition": {
+      "AP": "1500",
+      "Ball": "1500",
+      "Tracer": "1500"
+    },
+    "calibre": "7.62mm",
+    "description": "The MG 3 is a German general purpose machine gun, based on the MG-42 it is well known for its high fire rate of up to 1200rpm on high setting.",
+    "descriptor": "German 7.62 GPMG",
+    "image": "mg3_0mgcd0nkjre84j173xh6.jpg",
+    "name": "MG3"
+  },
+  "Ia8Z_LTKg9T49MO1bCwi": {
+    "ammunition": {
+      "9M117": "4000",
+      "9M117M": "4000",
+      "9M117M1": "4000"
+    },
+    "calibre": 100,
+    "description": "The 9M117 Bastion NATO:AT-12 Swinger, is a Soviet/Russian laser beam riding gun launched ATGM, it can be fired by the T-12 AT gun, as well as the 2A70 main gun on the BMP-3 and BMD-4 series.",
+    "descriptor": "AT-12 Swinger",
+    "image": "9m117_ms88r67xgmxqjcwevaf3.jpg",
+    "name": "9M117"
+  },
+  "IiJwBfwVvJWsVRf5QbnU": {
+    "ammunition": {
+      "Detect": "20km",
+      "Track": "18km"
+    },
+    "calibre": "N/A",
+    "description": "The RPK-2 'Tobol' (GRAU: 1RL133M1/NATO: 'Gun Dish') is the target acquisition and guidance radar for the ZSU 23-4 'Shilka'. It provides an all weather capability to the 4 x autocannons of the system. The way to defeat the system is to stay below 50m altitude, since the radar clutter makes its hard to pick out targets within that altitude band. ",
+    "descriptor": "RPK-2 Tobol 'Gun Dish'",
+    "image": "1rl33m1_ipvyj0scru7ldbicti7l.jpg",
+    "name": "1RL33M1"
+  },
+  "JRuqFyDXY4b28PMrEuse": {
+    "ammunition": {
+      "9M31": "4200",
+      "9M31M": "8000"
+    },
+    "calibre": 120,
+    "description": "The 9M31 ground to air missile is used by the Strela-1 (SA-9) surface to air system. Unlike other commonly used Soviet era SAMs, it is infra-red guided. The radars on the TLAR give a range and bearing to the target, the missile provides the final target lock.",
+    "descriptor": "Strela-1 surface to air missile",
+    "image": "9m31_qfs54rz3lehrlsf9zylu.jpg",
+    "name": "9M31"
+  },
+  "KJnEPFqhr2EjG0Yt0Dl0": {
+    "ammunition": {
+      "APFSDS": "2000",
+      "HESH": "5000",
+      "Smoke": "5000"
+    },
+    "calibre": "120mm",
+    "description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+    "descriptor": "Royal Ordnance Rifled Gun",
+    "image": "l30a1_hoidd9l30zs7691390dn.jpg",
+    "name": "L30A1"
+  },
+  "L2acxdtXv1EuVneFlnzE": {
+    "ammunition": {
+      "HEAT": "3000"
+    },
+    "calibre": 125,
+    "description": "The 9M14, NATO designation AT-3 'Sager' was the Soviet Union's first man-portable anti-tank guided munition first fielded in 1963. Original variants were wire-guided SACLOS but newer versions switched to radio controlled SACLOS.",
+    "descriptor": "AT-3 Sagger",
+    "image": "9m14_kpjzfjciyc1zviofo1gq.jpg",
+    "name": "9M14"
+  },
+  "L2idSJPsoibHEZG0XM35": {
+    "ammunition": {
+      "AFPSDS": "2000",
+      "HE": "3000",
+      "HEAT": "3000"
+    },
+    "calibre": "105",
+    "description": "The 105mm MA on the ZTQ-15 and VT-5 does not yet have a known official designation, nor is much else known about it publicly, therefore these statistics and ranges may be subject to change and potentially could be incorrect. This will be updated upon the release of new information.The gun is supposedly compatible with NATO ammunition.",
+    "descriptor": "105mm Chinese Main Armament",
+    "image": "ztq15_qfsksvog99dlw7rjpt0b.jpg",
+    "name": "ZTQ-15"
+  },
+  "LcS1_uky4DFD7QoTfZMA": {
+    "ammunition": {
+      "AP": "2000",
+      "HE": "4000",
+      "HEI-T": "4000"
+    },
+    "calibre": 30,
+    "description": "The 2A72 is a late Soviet upgrade of the 2A42, the design is simplified with less parts, produced by Tulamashzavod, as well as factories in Ukraine and China that build licensed and unlicensed copies. It is named the ZTM-1/KBA-2 in Ukrainian service and the ZPT99 in Chinese service.",
+    "descriptor": "30mm autocannon",
+    "image": "2a72_6uxc6tq3h92r3as5j43d.jpg",
+    "name": "2A72"
+  },
+  "LlGxJmquahan2XPgrNUC": {
+    "ammunition": {
+      "9M33": "9000",
+      "9M33M2": "10000",
+      "9M33M3": "12000"
+    },
+    "calibre": 209,
+    "description": "The 9M33 is the missile used on the 9K33 Osa SA-8 'Gecko' surface to air system. The weapon is guided by the systems 'Land Roll' fire control radar and has a reported accuracy of 5 metres.",
+    "descriptor": "Osa surface to air missile",
+    "image": "9m33_i64x9zi8wib95deaasew.jpg",
+    "name": "9M33"
+  },
+  "M7kCKBZjeMQ6MArgeghx": {
+    "ammunition": {
+      "HE": "2000"
+    },
+    "calibre": 30,
+    "description": "The 2A38M is the designation given to the 30mm autocannon used on the 2K22 Tunguska & Pantsir S1. The weapon is an upgraded version of the 2A42, which is used on BMP-2. ",
+    "descriptor": "30mm anti-aircraft cannon",
+    "image": "2a38m_bshftlwqvpilkh4cc0b7.jpg",
+    "name": "2A38M"
+  },
+  "Mh8EyHq9w5W8a-KcHSJf": {
+    "ammunition": {
+      "APFSDS": "3000",
+      "ATGM": "5000",
+      "HE": "4000",
+      "HEAT": "4000"
+    },
+    "calibre": 125,
+    "description": "The 2A46 is a Soviet/Russian family of 125mm L/48 smoothbore tank guns, produced by Artillery Plant No.9 in Yekaterinburg from 1963-Present. The gun has many variations, the 2A46M-5 series is fitted to the T-72/T-90 series of tanks and the 2A46M-4 is fitted to the T-80 series of tanks, this is due to differences with the autoloaders fitted to these models.",
+    "descriptor": "125mm smoothbore gun",
+    "image": "2a46_xs3kfxj310dibwc6ja7c.jpg",
+    "name": "2A46"
+  },
+  "N45xYgELWvygxx2U9V5c": {
+    "ammunition": {
+      "HEAT": "6000"
+    },
+    "calibre": "100",
+    "description": "The 9M123, NATO designation AT-15 'Springer' is a Russian anti-tank guided missile (ATGM). It was first made in 2005 for use with the 9P157-2 Khrizantema-S, Mi-28 Havoc. It is being adapted for use aboard the Ka-52 Alligator. There are two variants, laser & radar guided respectively.\r\n            ",
+    "descriptor": "AT-15 Springer",
+    "image": "9m120_yar372kdgds7em8yoihr.jpg",
+    "name": "9M120"
+  },
+  "NNyz-WmzVqW4_FOwMsIK": {
+    "ammunition": {
+      "AP": "2000",
+      "Ball": "2000",
+      "Tracer": "2000"
+    },
+    "calibre": 12.7,
+    "description": "The NSV heavy machine gun is Russias answer to the M2 Browning .50 machine gun. It is an upgraded system compared to the earlier DShk. The NSVT is a vehicle mounted version of the gun, and is used on Russian T-series tanks. The Kord replaced the NSVT on factory roll-outs since 1998.",
+    "descriptor": "NSV heavy machine gun",
+    "image": "nsvt_9wxwsgcmzxpskrr77t8f.jpg",
+    "name": "NSVT"
+  },
+  "OAReACmPXlfoaQFQG793": {
+    "ammunition": {
+      "HE": "300000"
+    },
+    "calibre": "610mm",
+    "description": "ATACMS is a long range missile compatible with the M270 MLRS and M142 HIMARS systems.\r\n            \r\n            \r\n            \r\n            \r\n            ",
+    "descriptor": "Army Tactical Missile System",
+    "image": "mgm140_i1g5g31ffcvq32j14h2d.jpg",
+    "name": "MGM-140"
+  },
+  "Oe3DvcjIsGfWUvSQ8evk": {
+    "ammunition": {
+      "HE": "1300",
+      "HEAT": "4000"
+    },
+    "calibre": 73,
+    "description": "The 2A28 Grom is a Soviet/Russian low pressure smoothbore gun, produced from 1966 to the present it’s directly linked to the SPG-9 recoilless gun, both fired projectiles similar to rocket propelled grenades. The projectiles had extremely high penetration, the HEAT warhead can penetrate the frontal armour of the heavily armoured British Chieftain, which it was designed to do. It was after Afghanistan that the Soviet army sought a replacement weapon for the BMP series after the low gun elevation on the BMP-1.",
+    "descriptor": "73mm smoothbore gun",
+    "image": "2a28_34ni26w3s9azpaglra39.jpg",
+    "name": "2A28"
+  },
+  "OyXErKwK2-bNyIep3vW8": {
+    "ammunition": {
+      "APFSDS": "3000",
+      "ATGM": "5000",
+      "HE": "4000",
+      "HEAT": "4000"
+    },
+    "calibre": 125,
+    "description": "The 2A75 gun is a Russian 125mm smoothbore gun, with an autoloader, it can fire all 125mm munitions from the 2A46 series of guns, it is solely fitted to the 2S25 Sprut.",
+    "descriptor": "125mm smoothbore gun",
+    "image": "2a75_m26mqa7nh33xqv52rsue.jpg",
+    "name": "2A75"
+  },
+  "P8JXHd3yF7qG7dQlmKOb": {
+    "ammunition": {
+      "AP": "1800",
+      "Ball": "1800",
+      "Tracer": "1800"
+    },
+    "calibre": "7.62mm",
+    "description": "The FN MAG machine gun is used by many nations. It is a general purpose machine gun with a gas operated, long-stroke, open bolt mechanism. It can fire 1000 rounds a minute. It has the following designations worldwide:\n\nUnited Kingdom: L7A1 'General purpose machine gun'\n\nUSA: M240\n\nSweden: Ksp 58\n",
+    "descriptor": "FN MAG machine gun",
+    "image": "fnmag_k63gne2tigsyisp90ykx.jpg",
+    "name": "FN-MAG"
+  },
+  "PB6EDMdpNgvg8YhQXiq3": {
+    "ammunition": {
+      "HE": "8000"
+    },
+    "calibre": "76mm",
+    "description": "The Marlet is a British air-to-surface, surface-to-air and surface-to-surface missiles developed by the Royal Navy. It is also designated as the lightweight multi-role missile (LMM). It is capable of beam-riding, semi-active laser homing, IR homing and intertial/gps guidance. Max speed of the missile is up to Mach 1.5 (510m/s).",
+    "descriptor": "Lightweight multi-role missile",
+    "image": "martlet_vo6bau4jwwswhj7qh91b.jpg",
+    "name": "Martlet"
+  },
+  "PSqew9PJ6s_wf6FDzMqw": {
+    "ammunition": {
+      " 04 ": "2700",
+      "04M": "6000",
+      "04M3": "10000"
+    },
+    "calibre": "220",
+    "description": "                The MO-10-1-04 is actually designated a weapon in the chemical and nuclear brigades of the Russian military. This is because it is a purely thermobaric munition. They have a relatively short range, but have devastating effects at the target end.\r\n            ",
+    "descriptor": "TOS-1 thermobaric rocket",
+    "image": "mo10104_a7x1eufqi5nozaa1n8ni.jpg",
+    "name": "MO-10-1-04"
+  },
+  "PY6vvohln9cLqtGE8nNb": {
+    "ammunition": {
+      "AFPSDS": "2km",
+      "HE": "3km direct 12km indirect"
+    },
+    "calibre": "76mm",
+    "date_added": "11.12.2023",
+    "description": "The Denel GT4 is a South African gun derived from the Italian Otobreda naval gun. It fires APFSDS-T at a muzzle velocity of 1600m/s and is capable of penetrating 311mm of RHA at 10m, this allows the gun to penetrate the front of a T-62 at 2km. It can also fire HE and canister rounds, the canister ammunition can destroy dismounts up to 150m, and maim up to 500m. The fire rate for the gun is 6rpm.",
+    "descriptor": "76mm QF Gun",
+    "image": "denelgt4_bmyguheg633i7lqdqi1s.jpg",
+    "name": "Denel GT4",
+    "status": "complete"
+  },
+  "Q0TLstSoDpZh4l538iZe": {
+    "ammunition": {
+      "DPICM": "17500",
+      "HE": "17500",
+      "Illum": "17500",
+      "RAP": "24000",
+      "Smoke": "18500"
+    },
+    "calibre": 152,
+    "description": "The 2A33 is the barrel used in the D-20 towed howitzer and the 2S3 Akatsiya self-propelled gun. The barrel is 3.96 metres long, with a double baffle muzzle brake and a semi-automatic vertical sliding-block breech. The fume extractor (wider part of barrel) sits close to the muzzle break.",
+    "descriptor": "Soviet 152mm Artillery Barrel",
+    "image": "2a33_wb3wz6u68ngbo3bhmqi7.jpg",
+    "name": "2A33"
+  },
+  "QMm0Fhjoly0M06ooR8vX": {
+    "ammunition": {
+      "3M9": "22000",
+      "3M9M1": "23000",
+      "3M9M3": "25000",
+      "3M9M4": "24000"
+    },
+    "calibre": 335,
+    "description": "The 3M9 surface to air missile is the family of missiles used in the 2K12 Kub (SA-6). The maximum range of the missile is 24 kilometres, depending on variant. They use a mix of high-explosive and fragmentation payload, initiated either on contact or in proximity to target aircraft. There is semi-active radar seeker in the head of the missile, this seeker will steer the missile to the re-bounded radar energy from the target acquisition radar of the same system.",
+    "descriptor": "3M9 surface to air missile",
+    "image": "3m9_o4gzg1m42arqhd0omlwn.jpg",
+    "name": "3M9"
+  },
+  "QjRnuxSVrM4rzHtarz_1": {
+    "ammunition": {
+      "HE": "4000",
+      "HEI": "4000"
+    },
+    "calibre": 30,
+    "description": "The 2A42 is a Soviet/Russian 30mm auto-cannon built by Tulamashzavod from 1980 to the present day, it is gas operated with 2 options of RoF. The low setting 200-300rds/min, the high setting being 550-800rds/min, the action is gas operated, with a dual feed system. It is typically the MA of Russian IFV’s.",
+    "descriptor": "Soviet 30mm auto-cannon",
+    "image": "2a42_bm3537cvy5imf0rhh7d3.jpg",
+    "name": "2A42"
+  },
+  "Rx-QaRkTSHkqkU-yTWEM": {
+    "ammunition": {
+      "Jam": "300km"
+    },
+    "calibre": "N/A",
+    "description": "The Krasukha-4 broadband multifunctional jamming radar counters AWACS and other airborne radar systems. It has the ability to target low earth orbit satellites and cause permanent electronic damage. It can target adversaries up to 300km away.",
+    "descriptor": "Jamming radar",
+    "image": "1rl257_uur58menl2jvtmvp1r81.jpg",
+    "name": "1RL257"
+  },
+  "SFSuiUYyR2ETtHzBJk2y": {
+    "ammunition": {
+      "Ball": "1500m",
+      "Tracer": "1500m"
+    },
+    "calibre": "7.62mm",
+    "date_added": "11.12.2023",
+    "description": "The Denel MG4 is a South African a modified M1919A4 Browning machine gun, it has been rechambered for 7.62x51mm NATO, the feed was reworked for open bolt function, it was also modified so that it could use disintegrating link belts.",
+    "descriptor": "7.62mm Machine Gun",
+    "image": "denelmg4_7pugqiar4e4l9chambtd.jpg",
+    "name": "Denel MG4",
+    "status": "complete"
+  },
+  "SQQ7lyrw7_mjLtI4xbhd": {
+    "ammunition": {
+      "9M111": "2000",
+      "9M111-2": "2500",
+      "9M111M": "2500"
+    },
+    "calibre": 135,
+    "description": "The 9M113, NATO designation AT-4 Spigot, is an anti-tank guided missile. It is a wired missile that uses SACLOS, which requires the operator to keep optics fixed to the target in flight. The original variant has a reported penetration of 400mm, the 9M111-2 460mm and the 9M111M model up to 600mm.",
+    "descriptor": "AT-4 Spigot",
+    "image": "9m111_1sdryt8bv8p1u3zbxb9h.jpg",
+    "name": "9M111"
+  },
+  "TkQrxaEPHzAhb6IsLR9n": {
+    "ammunition": {
+      "9M217": "30km",
+      "9M218": "30km",
+      "9M22U": "20km",
+      "9M28F": "15km",
+      "9M28K": "14km",
+      "9M43": "20km",
+      "9M521": "40km",
+      "9M522": "37km"
+    },
+    "calibre": "122",
+    "description": "M-21OF is the wider designation given to the family of 122mm rockets fired by the BM-21 Grad. The original rocket has a range of about 20 kilometers but various improvements have led to a rocket capable of firing twice as far. All rockets are unguided.",
+    "descriptor": "BM-21 'Grad' rocket",
+    "image": "m21of_m1nd2afqhqu9spp1m0li.jpg",
+    "name": "M-21OF"
+  },
+  "UCcLgK99ZXs7hJ_Q9Dqu": {
+    "ammunition": {
+      "Detect": "75000"
+    },
+    "calibre": "N/A",
+    "description": "The 1S11 is the target acquisiton radar mounted on the 1S19 'Straight Flush' radar system, part of the 2K12 Kub SA-6 SAM system. ",
+    "descriptor": "Acquisition radar",
+    "image": "1s11_6p9maztcbv4kmtkm2lok.jpg",
+    "name": "1S11"
+  },
+  "X4NcLB1Vj2O5H7RmzCJ7": {
+    "ammunition": {
+      "DPICM": "26000",
+      "HE": "24700",
+      "Illum": "26000",
+      "RAP": "29000",
+      "Smoke": "26000"
+    },
+    "calibre": 152,
+    "description": "The 2A64 is an upgrade to the 2A33 152mm howitzer barrel. The barrel is used in the Msta-B towed gun and the 2S19 Msta self-propelled artillery gun (SPAAG). It is 7.2m long, significantly longer than its predessor - this gives it a much improved range.",
+    "descriptor": "Soviet 152mm Msta Barrel",
+    "image": "2a64_xgq4mkv9jgqi35q974mx.jpg",
+    "name": "2A64"
+  },
+  "XUKKnwml37Z_R6J9QJ3G": {
+    "ammunition": {
+      "9M330": "12000",
+      "9M331": "15000",
+      "9M332": "15000"
+    },
+    "calibre": 23,
+    "description": "The 9M330 is the missile used on the original Tor surface to air missile. The later 9M331 variant enables two missiles to be fired at the same target. The 9M332 is used on the Tor-M2 system.",
+    "descriptor": "Tor surface to air missile",
+    "image": "9m330_5zkekl4rmxupnt0m5lv1.jpg",
+    "name": "9M330"
+  },
+  "XWWBE0kE9egYP2lRH-dq": {
+    "ammunition": {
+      "Detect": "100000",
+      "Track": "95000"
+    },
+    "calibre": "N/A",
+    "description": "The 9S36 is an improvement to the 'Fire Dome' radar. It can track & engage up to 4 targets simultaneously.",
+    "descriptor": "Tikhomirov NIIP radar",
+    "image": "9s36_op00m1c30dd7v17sjr03.jpg",
+    "name": "9S36"
+  },
+  "YDlzs01idilECCkRSNnb": {
+    "ammunition": {
+      "AP": "2000",
+      "HE": "2000"
+    },
+    "calibre": 30,
+    "description": "The L21A1 RARDEN (Royal Armament, Research and Development Establishment Enfield) is a British 30mm cannon fitted to the Warrior IFV and FV107 Scimitar AFV's among others. The weapon uses a long recoil system of operation, for minimum recoil forces on the mounting and vehicle. Spent cases are ejected forwards and outwards of the vehicle. The weapon was also designed for minimum inboard length, allowing for more space in the turret or a smaller turret. The Rarden gun does not require an external power source and can remain in action even if the vehicle is disabled, provided that provision is made for manual traverse and elevation of the turret or mount and for sighting the weapon. The gun has a rate of fire of 90rpm.",
+    "descriptor": "RARDEN 30mm Cannon",
+    "image": "l21a1_sii40idovwq9g8l2xnza.jpg",
+    "name": "L21A1"
+  },
+  "YFdD5MAaVUMypceFCjmm": {
+    "ammunition": {
+      "Detect": "100000",
+      "Track": "95000"
+    },
+    "calibre": "N/A",
+    "description": "The 9S35 'Fire Dome' radar is mounted on the TELAR of the Buk & Buk M1 surface to air system. It is uniquely shaped, and the way to tell the M1 & M2 TELARs.",
+    "descriptor": "'Fire Dome' radar ",
+    "image": "9s35_k7zb59esuzm07s7h5164.jpg",
+    "name": "9S35"
+  },
+  "YHJe63Q8TNQom_8pX4zy": {
+    "ammunition": {
+      "HE": "7000"
+    },
+    "calibre": "130mm",
+    "description": "The High Velocity Missile contains 3 tungsten darts that are released from the missile near the target and steered on. The combination of kinetic energy (2800mph) and a delayed HE fuze causes the effect on target. Since there is no active homing, the missiles cannot be countered by infa-red control measures.",
+    "descriptor": "High Velocity Missile",
+    "image": "hvm_s5wtr376zjbuc5u8p7lr.jpg",
+    "name": "HVM"
+  },
+  "YLIHT9db8D3VYb2IB5sl": {
+    "ammunition": {
+      "HE": "18000"
+    },
+    "calibre": 90,
+    "description": "The 57E6 is an upgrade to the 9M311 missile used on the 2K22 Tunguska. The missile is smaller, lighter and has a further engagement range. The 57E6 is used on the Pantsir (SA-22) SAM system. They are guided by the Pantsir's 1RS2-1E acquisition and tracking radar.",
+    "descriptor": "57E6 surface to air missile",
+    "image": "57e6_gjzmhvwybw0paefcdwox.jpg",
+    "name": "57E6"
+  },
+  "ZaYxwxdfGcqrh0BVFWei": {
+    "ammunition": {
+      "HEAT": "5000"
+    },
+    "calibre": 135,
+    "description": "The 9M113, NATO designation AT-5 Spandrel, is an anti-tank guided missile. It is a wired missile that uses SACLOS, which requires the operator to keep optics fixed to the target in flight.",
+    "descriptor": "AT-5 Spandrel",
+    "image": "9m113_4m1ceuz6f1xd6dnns2ex.jpg",
+    "name": "9M113"
+  },
+  "Zx7aAREoLfZZOLvhcAF8": {
+    "ammunition": {
+      "HE": "499000"
+    },
+    "calibre": "227mm",
+    "description": "The PrSM is an improvement of the ATACMS system with a reported range of up to 499km. It is only compatible with the M270A2 MLRS and M142 HIMARS.",
+    "descriptor": "Precision Strike Missile",
+    "image": "prsm_5dplxr6c0atedp306cc0.jpg",
+    "name": "PrSM"
+  },
+  "_DpcgRcbIzduxkF-cAPn": {
+    "ammunition": {
+      "APFSDS": "3000",
+      "HE": "5000",
+      "HEAT": "5000",
+      "KSTAM-1": "5000",
+      "KSTAM-2": "8000"
+    },
+    "calibre": 120,
+    "description": "The CN08 is an indigenously developed 120mm smoothbore gun based on the German RH-120, it is fitted to the K2 Black Panther. The CN08 when paired with the FCS of the K2 has an impressive arsenal of munitions, namely those of the KSTAM 1 and 2 smart top attack munitions.",
+    "descriptor": "Korean 120mm smoothbore gun",
+    "image": "cn08_ztbl3mdpckao0j0a8d6t.jpg",
+    "name": "CN08"
+  },
+  "_XGxIWfhbGcv2KCqHs8p": {
+    "ammunition": {
+      "HE": "4000"
+    },
+    "calibre": "105mm",
+    "description": "The L7 was a 105mm tank gun designed and produced by the British company Royal Ordnance. It was replaced by the more powerful 120mm L30A1 when the Challenger came into service. The gun has been replicated by the Chinese and is designated the ZPL-98A.",
+    "descriptor": "Royal Ordnance Tank Gun",
+    "image": "l7_tsnyfixkgt4vjgjq30jt.jpg",
+    "name": "L7"
+  },
+  "_d2quoTj27wMpIH4OlW4": {
+    "ammunition": {
+      "Ball": "2500",
+      "Tracer": "2500"
+    },
+    "calibre": 12.7,
+    "description": "The Browning M2 is a heavy machine gun that was first developed in the 1920s by American firearms designer John Browning. It is a belt-fed weapon that is typically chambered in .50 BMG caliber and is capable of firing at a rate of 450-600 rounds per minute. The M2 has been used extensively in World War II, the Korean War, the Vietnam War, and various conflicts since. It is known for its reliability, long range, and powerful punch. The M2 is also used in a variety of roles including anti-aircraft, ground support, and as a vehicle-mounted weapon. Despite its age, the M2 is still in active use today by various militaries around the world.",
+    "descriptor": "Heavy machine gun",
+    "image": "m2_yhw1wfhz7ui7obw00gqx.jpg",
+    "name": "M2"
+  },
+  "aXSZccwGZpgPod3X56K1": {
+    "ammunition": {
+      "9M317": "50000",
+      "9M38": "25000",
+      "9M38M1": "35000"
+    },
+    "calibre": 400,
+    "description": "The Buk family of surface to air missiles are radar guided by the Buks integral target acquistion and fire control radar. They have a large payload of 70kg which is  comprised of a HE/fragmentation mixture. The radar seeker heads also have a radar proximity fuze. The Buk M2 uses the 9M317 missile.",
+    "descriptor": "Buk surface to air missile",
+    "image": "9m38_03kz8x0zr7mv0t066guk.jpg",
+    "name": "9M38"
+  },
+  "bIValnRMsRW9le6x-tL6": {
+    "ammunition": {
+      "APFSDS": "3000",
+      "ATGM": "5000",
+      "HE": "4000",
+      "HEAT": "4000"
+    },
+    "calibre": "125",
+    "description": "The ZPT-98 is a Chinese 125mm smoothbore tank gun, based on the Russian 2A46, along with the autoloader, it is based on the early versions of the 2A46 so it cannot enjoy the use of long rod penetrators like the 3BM59/60 Svinets series, despite this the Chinese DTC10-125 APFSDS round is actually more effective, it is classed as one of the best 125mm APFSDS rounds in existence, according to Chinese sources.",
+    "descriptor": "125mm smoothbore gun",
+    "image": "zpt98_pi4jau5ps4q8mv50pk1k.jpg",
+    "name": "ZPT-98"
+  },
+  "bNIe5l6TXnYn8F2mnB6u": {
+    "ammunition": {
+      "HE": "2100",
+      "Smoke": "2100"
+    },
+    "calibre": "30",
+    "description": "                Based on the AGS-17, the AGS-30 is a grenade machine gun made by the Russian federation. The improvements give it an increased rate of fire and range. It is fitted to a variety of IFVs and APCs globally.\r\n            ",
+    "descriptor": "Grenade machine gun",
+    "image": "ags30_c2wgensmk0hyiedjhaq8.jpg",
+    "name": "AGS-30"
+  },
+  "cQ2fUZKYqa82kj3eUvyp": {
+    "ammunition": {
+      "HEAT": "5000"
+    },
+    "calibre": "125mm",
+    "description": "Kombat is a Ukrainian 125mm ATGM that is fired from T-64BM, T-64B1M & T-84M. It is similiar in capability to the 9M119, NATO designation AT-11 Sniper. It reported has a penetration of 950mm.",
+    "descriptor": "Kombat ATGM",
+    "image": "kombat_j51mtjvjg25ba30mbzus.jpg",
+    "name": "Kombat"
+  },
+  "ceSignlX1WzqigQCyHU4": {
+    "ammunition": {
+      "APFSDS": "3000",
+      "ATGM": "5000",
+      "HE": "4000",
+      "HEAT": "4000"
+    },
+    "calibre": 125,
+    "description": "The 2A82-1M is an extensively upgraded 2A46 gun for use on the unmanned turret of the T-14 Armata MBT, the gun has new ammunition developed for it, including the APFSDS rounds 3BM69 Vacuum-1 and 3BM70 Vacuum-2, the former being uranium alloy and the latter being the typical tungsten, which is common in 125mm smoothbore APFSDS.",
+    "descriptor": "125mm remote turret gun",
+    "image": "2a82_l40mud9efr10hznepzp9.jpg",
+    "name": "2A82"
+  },
+  "d0bAsy5Tlb5boB3wlbtz": {
+    "ammunition": {
+      "APFSDS": "3000",
+      "HE": "4000",
+      "HEAT": "4000"
+    },
+    "calibre": "120",
+    "description": "The Rheinmetall RH-120-44 is a 120mm L/44 smoothbore gun, one of the most common smoothbore guns in the west and many of the 120mm smoothbore guns on tanks today are either the RH-120-44, or license produced versions of it. It has either the L/44 or L/55 versions.",
+    "descriptor": "Rheinmetall 120mm smoothbore gun",
+    "image": "rh12044_coyaxlz4cw8cibrlldp9.jpg",
+    "name": "RH-120-44"
+  },
+  "eVvl26T6Nug0koeGW9vT": {
+    "ammunition": {
+      "HE": "17700",
+      "Illum": "17700",
+      "Smoke": "17700"
+    },
+    "calibre": "105mm",
+    "description": "The L18 105mm ordnance, built by Royal Ordnance (now BAE systems), is a British made barrel & breech combination for the L118 light gun. It has a sliding breech, which enables the use of bagged ammunition. It out performs its rival gun, the D-30, in both range and accuracy.",
+    "descriptor": "BAE 105mm ordnance",
+    "image": "l18_c7k58szuejr9k11bjb51.jpg",
+    "name": "L18"
+  },
+  "fxISjxIVOYZEe_lK6JLb": {
+    "ammunition": {
+      "HEAT": "6000"
+    },
+    "calibre": 100,
+    "description": "The 9M123, NATO designation AT-15 'Springer' is a Russian anti-tank guided missile (ATGM). It was first made in 2005 for use with the 9P157-2 Khrizantema-S, Mi-28 Havoc. It is being adapted for use aboard the Ka-52 Alligator. There are two variants, laser & radar guided respectively.",
+    "descriptor": "AT-15 Springer",
+    "image": "9m123_ai7jk76yezpoy2xfle95.jpg",
+    "name": "9M123"
+  },
+  "h0gk3yWhhAbDLssW4nKJ": {
+    "name": "2A44",
+    "descriptor": "203mm Gun",
+    "calibre": "203",
+    "description": "The 2A44 is a large calibre gun. The huge barrel had specially designed ammunition for use with the 2S7 Pion. Rounds are breach loaded and have a huge range, three rounds can be fired before the first lands - letting the gun escape counter-battery threats. The 2A44 can fire nuclear projectiles.",
+    "image": "2a44_jjhz1ml9zmzh66kq7km4.jpg",
+    "status": "complete",
+    "ammunition": {
+      "HE": "37500",
+      "RAP": "55500"
+    }
+  },
+  "h1_WCcMTrY9kxdkwYVCD": {
+    "ammunition": {
+      "Ball": "2000",
+      "HE": "2000"
+    },
+    "calibre": "12.7mm",
+    "description": "The Yak-B is a four barrelled, remotely controlled chaingun. It is used on Soviet era helicopters such as the Mi-24 'Hind'. It has a fire rate of up to 5000 rounds per minute. It is similiar to the American GAU-19 gatling gun.",
+    "descriptor": "Yak-B gatling gun",
+    "image": "yakb_yc06xost15nlvrxtmpd0.jpg",
+    "name": "Yak-B"
+  },
+  "heJAIIghB8lETDOi0C5i": {
+    "ammunition": {
+      "APFSDS": "2000",
+      "ATGM": "3000",
+      "HE": "2500",
+      "HEAT": "2500"
+    },
+    "calibre": "105",
+    "description": "The ZPL-98A is based on the ZPL-98, which in turn is a modified Royal Ordnance L7 105mm copy. It has a low recoil muzzle brake and is lighter, the A model has been adapted for use on the ZTD-05 and ZTD-11. ",
+    "descriptor": "105mm smoothbore gun",
+    "image": "zpl98a_f4cxntcl59fhx9w2ok5w.jpg",
+    "name": "ZPL-98A"
+  },
+  "hiGv6SKQCdTbgf8zHp6t": {
+    "ammunition": {
+      "Detect": "7000 (veh)",
+      "Pers": "2000 (per)"
+    },
+    "calibre": "N/A",
+    "description": "The PSNR-5K, NATO designation 'Tall Mike' is a ground surveillance radar used by Soviet reconnaissance vehicles. It can detect vehicles at ranges out to 7km and dismounts out to 2km. The information provided by the radar can then be used to confirm by other ISR assets, or used to engage directly with indirect fires.",
+    "descriptor": "Tall Mike surveillance radar",
+    "image": "psnr5k_hvdmalyy9wp270n6c1ke.jpg",
+    "name": "PSNR-5K"
+  },
+  "ioXN7kjvzV469GG4drLq": {
+    "ammunition": {
+      "HE": "2000"
+    },
+    "calibre": 30,
+    "description": "The 2A38M is the designation given to the 30mm autocannon used on the 2K22 Tunguska & Pantsir S1. The weapon is an upgraded version of the 2A42, which is used on BMP-2. ",
+    "descriptor": "30mm anti-aircraft cannon",
+    "image": "2a7_7h7dunpsmvqhqmcmibsi.jpg",
+    "name": "2A7"
+  },
+  "j7_uXVszt8coFYdS2Ksh": {
+    "ammunition": {
+      "HE": "24500",
+      "Illum": "24500",
+      "Smoke": "24500"
+    },
+    "calibre": "155mm",
+    "description": "The L31 is the name given to the gun used in the British AS90 self-propelled howitzer. The gun uses a sliding breech block and bagged charges, instead of the previous metal cartidge cases. The gun is largely autonomous and can be operated without the vehicle running. It takes less than 1 minute to bring into action.",
+    "descriptor": "Royal Artillery 152mm gun",
+    "image": "l31_a86r0ydsn0hqu16racmw.jpg",
+    "name": "L31"
+  },
+  "jI-KzHCmoNH6RWPBiQBX": {
+    "ammunition": {
+      "9M311": "8000",
+      "M1": "19000"
+    },
+    "calibre": 335,
+    "description": "The 9M311 is a family of surface to air missiles developed in the Soviet Union. They are used in the Naval system 'Kashtan' as well as the 2K22 Tunguska. The missile uses a continious rod charge, which directs the force of the explosion better towards air targets. The kill rate is reportedly 0.6, which was high for its time.",
+    "descriptor": "9M311 surface to air missile",
+    "image": "9m311_bbevw2tco7lzhbqp4cwx.jpg",
+    "name": "9M311"
+  },
+  "kCE7fp6jq3b_53NmPkPJ": {
+    "ammunition": {
+      "HEAT": "5000"
+    },
+    "calibre": 135,
+    "description": "9M114 is a SACLOS radio guided missile designed and manufactured by the Soviet Union and then Russia. It can be used by anti-tank IFVs, such as the 9P149 and also by attack aviaton such as the Mi-24.",
+    "descriptor": "AT-6 Spiral",
+    "image": "9m114_ahckxbafnrjvs2vlkj1k.jpg",
+    "name": "9M114"
+  },
+  "l-uck8s5QrapM611WquW": {
+    "ammunition": {
+      "APFSDS": "4000",
+      "HE": "4000",
+      "HEAT": "4000"
+    },
+    "calibre": "120",
+    "description": "The RH-120-55 is a 120mm smoothbore L/55 gun, basically the longer version of the RH-120-55. It is the latest model and increases the lethality and range of the tank it is fitted too, it is used by the Leopard 2A6, 2A7 and will be fitted to the Challenger 3.",
+    "descriptor": "Rheinmetall 120mm smoothbore gun",
+    "image": "rh12055_at1h7y39h1chceldtjzw.jpg",
+    "name": "RH-120-55"
+  },
+  "mpeowgTEMKMXSiwoUbfi": {
+    "ammunition": {
+      "AP": "2000",
+      "Ball": "2000",
+      "Tracer": "2000"
+    },
+    "calibre": "12.7",
+    "description": "The QJC-88 is a Chinese 12.7mm heavy machine gun, purely designed to be vehicle mounted. It is solenoid fired and sees use on most PLAGF vehicles for local defence.",
+    "descriptor": "PLA 12.7mm heavy machine gun",
+    "image": "qjc88_oc1b48gepd42q3qohea5.jpg",
+    "name": "QJC-88"
+  },
+  "nhxuO_qChX_W3e1Rudx6": {
+    "ammunition": {
+      "AP": "1500",
+      "Ball": "1500",
+      "Tracer": "1500"
+    },
+    "calibre": 7.62,
+    "description": "The Hughes EX-34 7.62mm Chain Gun is a purpose designed coaxial machine gun, fitted to the Challenger 2, Warrior IFV and the Ajax IFV. It has a rate of fire of 520-550rpm and is electrically driven. \nThe common myth of it being designed for helicopters is untrue, likely due to confusion of the company Hughes, being named ‘Hughes Helicopters’. ",
+    "descriptor": "7.62 Chain Gun",
+    "image": "l94a1_ljxs9l5z66kma8nlnwvg.jpg",
+    "name": "L94A1"
+  },
+  "oHdn2H8RJPAA_mD7LV4l": {
+    "ammunition": {
+      "DPICM": "30000",
+      "HE": "30000",
+      "Illum": "30000",
+      "RAP": "40000",
+      "Smoke": "30000"
+    },
+    "calibre": 152,
+    "description": "The 2A79 is a much improved version of the 2A46 and is used on the 2S33 Msta-SM2 self propelled artillery gun (SPAAG). It has excellent ballistics and a significantly improved range.",
+    "descriptor": "Msta-SM2 howitzer barrel",
+    "image": "2a79_y3f3z6lwz435vlpgy8td.jpg",
+    "name": "2A79"
+  },
+  "oKVD3WCL_Uc87iGIqDwK": {
+    "ammunition": {
+      "Detect": "35000",
+      "Guide": "25000",
+      "Track": "30000"
+    },
+    "calibre": "N/A",
+    "description": "The 1S51M3 'Land Roll' is the target acquisition and fire control radar system used on the 9K33 Osa SA-8 'Gecko'. It is mounted on the TELAR, between the two banks of rockets.",
+    "descriptor": "'Land Roll' radar",
+    "image": "1s51m3_oxe3kf3mrnfhji8dhgtt.jpg",
+    "name": "1S51M3"
+  },
+  "onzIzL2EBBYh31oJHgAm": {
+    "ammunition": {
+      "HE": "6500"
+    },
+    "calibre": "100mm",
+    "description": "The 2A70 is a 100mm smoothbore gun, produced by Motovilikha plant and is fitted to the BMP-3 and BMD-4 series, it is a low pressure cannon designed to fire HE-FRAG as well as being a launcher for the 9M117 Bastion. It is coupled with an autoloader.",
+    "descriptor": "Motovilikha 100mm gun",
+    "image": "2a70_dhqgmt7ts250gmn3tj1e.jpg",
+    "name": "2A70"
+  },
+  "s37oTVCcczNeDPuZHL6m": {
+    "ammunition": {
+      "Detect": "40000"
+    },
+    "calibre": "N/A",
+    "description": "The 1RL127 'Big Fred' is a surveillance radar made in the Soviet Union. It can detect moving ground, air and sea targets out to a range of 40km.",
+    "descriptor": "Big Fred surveillance radar",
+    "image": "1rl127_pqmf38pixjwdv2hkbga1.jpg",
+    "name": "1RL127"
+  },
+  "s8_3ysuwTpcSA-zWFyK3": {
+    "ammunition": {
+      "HE": "9700",
+      "RAP": "20000"
+    },
+    "calibre": "240mm",
+    "description": "The M240 mortar is a Soviet 240mm mortar used in the 2S4 Tyulpan. The mortar was used to great success in the Afghanistan war in the 1980s, it could destroy Mujahadeen positions due to its high angle that were un-reachable by 122mm systems.",
+    "descriptor": "240mm mortar",
+    "image": "m240_7etbo53jao9a4n069k2k.jpg",
+    "name": "M240"
+  },
+  "ssBTAuKwOC7bgWSyA8Ba": {
+    "ammunition": {
+      "Ball": "2500",
+      "Tracer": "2500"
+    },
+    "calibre": 12.7,
+    "description": "The DShk heavy machine gun has been in continuous service since WWII, where it was first designed as an anti-aircraft gun. It has a rate of fire of 600 roads per minute.",
+    "descriptor": "Heavy machine gun",
+    "image": "dshk_b0a0y06kkx2xsy6oe7hu.jpg",
+    "name": "DShK"
+  },
+  "sxGBjRI2lMt2pZHmVAfl": {
+    "ammunition": {
+      "Detect": "36000",
+      "Track": "20000"
+    },
+    "calibre": "N/A",
+    "description": "The 1RS2-1E is the integral radar used on the Pantsir S1 surface to air missile system. It is a capable system with the ability to acquire and track fighters, cruise missiles and drones.",
+    "descriptor": "Pantsir targetting radar ",
+    "image": "1rs21e_zvos23jwi1smklrzy17l.jpg",
+    "name": "1RS2-1E"
+  },
+  "ubZz_rrZj710FJjP6k_q": {
+    "ammunition": {
+      "9M313": "5000",
+      "9M338": "6000",
+      "9M39": "5200"
+    },
+    "calibre": 335,
+    "description": "The 9K38 Iga, NATO reporting name SA-18 'Grouse', is a shoulder-launched surface to air missile. It has been modified to fit to some vehicle platforms to give them improved capability, such as the ZSU 23-4M.",
+    "descriptor": "Igla manpad",
+    "image": "9k38_ubvebz2v7rfz52m53yhq.jpg",
+    "name": "9K38"
+  },
+  "ukSKBJlNXRf5WK-SMb9f": {
+    "ammunition": {
+      "DPICM": "7150",
+      "HE": "8800",
+      "Illum": "8800",
+      "RAP": "12800",
+      "Smoke": "8800"
+    },
+    "calibre": 120,
+    "description": "The 2A60 is manufactured by Motovilikha Plants Corporation. The 120mm mortar barrel is used in the 2B16 towed mortar, the 2S9 self-propelled mortar and the 2S23. The 2A60 is the most commonly used 120mm mortar barrel world-wide, used by both a number of ex-Soviet states as well as customers of Russia's export market. ",
+    "descriptor": "Soviet 120mm Mortar",
+    "image": "2a60_a40xc5vmudrll8hlc6rg.jpg",
+    "name": "2A60"
+  },
+  "v7131HfW3Zfr42bfgs-J": {
+    "ammunition": {
+      "Ball": "500",
+      "Tracer": "500"
+    },
+    "calibre": "5.45",
+    "description": "The AK-74 is an assault rifle designed by small arms designer Mikhail Kalashnikov in 1974. While primarily associated with the Soviet Union, it has been used by many countries since the 1970s. It is chambered for the 5.45×39mm cartridge, which replaced the 7.62×39mm cartridge of Kalashnikov's earlier automatic weapons for the Soviet armed forces.\r\n            ",
+    "descriptor": "AK 5.45mm Assault Rifle",
+    "image": "ak74_4cfzrt2fjuhaq2einoyu.jpg",
+    "name": "AK-74"
+  },
+  "vr9oSWWXVHJtJ8eIv44D": {
+    "ammunition": {
+      "APFSDS": "4000",
+      "HE": "3000",
+      "HEAT": "3000"
+    },
+    "calibre": "120",
+    "description": "                The CN120-26, also known as the Modelé F1 is the main gun of the Leclerc MBT. It is an L/52 gun and is capable of firing all NATO 120mm smoothbore munitions, it has an autoloader mechanism.\r\n            ",
+    "descriptor": "Modele F1 120mm smoothbore gun",
+    "image": "cn12026_4yvm7vcrh5trzt02rjtr.jpg",
+    "name": "CN120-26"
+  },
+  "yaXKvaYm-BEz905vJ0YA": {
+    "ammunition": {
+      "Track": "24000"
+    },
+    "calibre": "N/A",
+    "description": "The 1S31 is the target tracking radar mounted on the 1S19 'Straight Flush' radar system, part of the 2K12 Kub SA-6 SAM system. It has an integral target illuminator, which allows the target to be painted by radar energy whilst being tracked.",
+    "descriptor": "Target tracking and fire control radar",
+    "image": "1s31_yrqvybkpvuuskgq0hn6h.jpg",
+    "name": "1S31"
+  },
+  "zJS6i07XSKIu_UDSDC8w": {
+    "ammunition": {
+      "APFSDS": "1800",
+      "ATGM": "4000",
+      "HE": "3000",
+      "HEAT": "3000"
+    },
+    "calibre": 115,
+    "description": "The 2A20 is a Soviet 115mm smoothbore tank gun, the first of its kind, it was solely used by the T-62 family of tanks. It was produced from 1959 by Motovilikha plant, it has also been produced by Royal Ordnance Nottingham in the UK to replace the Egyptian army’s aging barrels. The gun led to the introduction of new armour packages in the west, namely the Stillbrew Crew Protection  package on the British Chieftain Mk.10.",
+    "descriptor": "115mm smoothbore gun",
+    "image": "2a20_cixsg7v4nyhizpy87316.jpg",
+    "name": "2A20"
+  },
+  "zLPBnEGLesoUKLKukqLn": {
+    "ammunition": {
+      "HE": "92000"
+    },
+    "calibre": "227mm",
+    "description": "The M31 is a guided rocket used by the M270 MLRS system. It is 200lb in weight and can reach ranges of up to 92km. There only variant in production today is the M31A2 which has variable fusing capable of airburst, impact and delay.",
+    "descriptor": "200lb Guided Rocket",
+    "image": "m31_3f455fvay79tfy9fngjt.jpg",
+    "name": "M31"
+  },
+  "JxM7q9t3SYYBW8hvBu1R": {
+    "name": "AK-130",
+    "descriptor": "130mm Naval Cannon",
+    "calibre": "130mm",
+    "description": "Produced by KB Arsenal, the AK-130 is a twin barrel naval cannon, it is used on the Slava class cruiser, Kirov class battlecruiser, Sovremenny class destroyer and the Udaloy-II class destroyer. It has also been adapted for use as a coastal defence artillery system in the form of the A-222 Bereg, albeit in a single barrel format and without the rapid fire ability the gun has when on ships.",
+    "image": "ak130_yvxamp0feprzzulglve5.jpg",
+    "status": "complete",
+    "ammunition": {
+      "HE": "23km",
+      "Illum": "23km"
+    },
+    "date_added": "18.02.2024"
+  },
+  "i4QoImM9Ij6gceQrFuLZ": {
+    "name": "2M-3",
+    "descriptor": "Twin 25mm naval gun",
+    "calibre": "25mm",
+    "description": "The 2M-3 twin 25mm naval gun turret is a Soviet produced naval gun turret for use on boats, it entered service in 1953 and has been fitted to many different types of small boats, like the Komar guided missile craft. The gun has a fire rate of up to 450rpm, it was never designed for land operations, but is now found on MT-LB platforms to create hybrid IFV's.",
+    "image": "2m3_dta539drl2sfsu3jq1cp.jpg",
+    "status": "complete",
+    "ammunition": {
+      "HEI-T": "2.5km",
+      "HE": "2.5km",
+      "API-T": "2.5km"
+    },
+    "date_added": "18.02.2024"
+  },
+  "oU1ubl5Pc6t24EV98LcR": {
+    "name": "Denel GI-2",
+    "descriptor": "20mm autocannon",
+    "calibre": "20mm",
+    "description": "",
+    "image": "denelgi2_gysgox3zyebhoi8t5dgo.jpg",
+    "status": "complete",
+    "ammunition": {
+      "AP": "1000m",
+      "HEI": "2000m"
+    },
+    "date_added": "21.02.2024"
+  },
+  "36v6s240ip33ZPLb10Tg": {
+    "name": "Bushmaster III",
+    "descriptor": "35mm Chain Gun",
+    "calibre": "35mm/50mm",
+    "description": "The Bushmaster III 35/50 is a select fire, dual-feed autocannon used in the CV9035 series of IFV's, it can be converted to fire SuperShot 50mm by changing the barrel and a few other parts.",
+    "image": "bushmasteriii_gysgox3kyebh3i8w3dgo.jpg",
+    "status": "complete",
+    "ammunition": {
+      "AFPSDS": "Unknown",
+      "HEI": "Unknown"
+    },
+    "date_added": "09.04.2024"
+  },
+  "W3d267rHLDeAu1cPwkV6": {
+    "name": "A411",
+    "descriptor": "152mm howitzer",
+    "calibre": "152mm",
+    "description": "The A411 is a Romanian variation of the D-20 howitzer, it is very similar but fires different munitions, North Korea have also made a copy of this weapon system fitted to the Tok'chon SPG.",
+    "image": "a411_hxcgsrt7tuiuze4kns6v.jpg",
+    "status": "complete",
+    "ammunition": {
+      "HE": "17.4km",
+      "Illum": "17.4km",
+      "Smoke": "17.4km",
+      "RAP": "24km"
+    },
+    "date_added": "15.04.2024"
+  },
+  "IYoGu3R6SK6C96Yyh7Ju": {
+    "name": "ZPU-4",
+    "descriptor": "Quad barrelled AAA",
+    "calibre": "14.5mm",
+    "description": "The ZPU-4 is a Soviet quad barrel anti-aircraft gun, using machine guns based on the KPV series of heavy machine guns.",
+    "image": "zpu4_uji4nejgqf3plhsgif2b.jpg",
+    "status": "complete",
+    "ammunition": {
+      "API-T": "8000m",
+      "HEI-T": "8000m"
+    },
+    "date_added": "15.04.2024"
+  },
+  "9EUdf0d8iDMK8DCxM4Gn": {
+    "name": "HT-16PGJ",
+    "descriptor": "MANPAD",
+    "calibre": "N/A",
+    "description": "North Korean MANPAD taking lessons from the Russian Strela and Igla systems.",
+    "image": "ht16pgj_drb6daus9gst3oxvesdt.jpg",
+    "status": "complete",
+    "ammunition": {},
+    "date_added": "15.04.2024"
+  },
+  "3w02c3gSL2Il7ufgK6oW": {
+    "name": "L11A5",
+    "descriptor": "Royal Ordnance rifled gun",
+    "calibre": "120mm",
+    "description": "The Royal Ordnance L11A5 is a 120mm L/55 rifled gun, it was designed in the 50's as the L7 105mm was deemed to be becoming obsolete. The L11 is famous for achieving the longest tank-on-tank kill, during Op Granby a Challenger 1 C/S 11B of the Royal Scots Dragoon Guards hit an Iraqi tank at a range of 4700m ",
+    "image": "l11a5_lrv8xyuq79fnx6s5iemn.jpg",
+    "status": "complete",
+    "ammunition": {
+      "AFPSDS": "3000m",
+      "HESH": "8000m",
+      "Smoke": "8000m"
+    },
+    "date_added": "15.04.2024"
+  },
+  "NwdC329wt2A2Gs44yxFS": {
+    "name": "Type-63 MRL",
+    "descriptor": "107mm Multiple Rocket Launcher",
+    "calibre": "107mm",
+    "description": "The Type-63 MRL is a towed, 12 tube, Chinese multiple rocket launcher. It is licensed produced under different designations in many countries including Iran(Fajr-1), North Korea (Type-75) and Vietnam (H-12) to name a few.",
+    "image": "type63mrl_ejy0vxjipfom9f7dvewl.jpg",
+    "status": "complete",
+    "ammunition": {
+      "HE": "8000m"
+    },
+    "date_added": "16.04.2024"
+  },
+  "M5l3YK83v0f9ZX0CA60i": {
+    "name": "SM-4-1",
+    "descriptor": "130mm Coastal Defence",
+    "calibre": "130mm",
+    "description": "The 130mm SM-4-1 is a Soviet mobile coastal defence gun.",
+    "image": "sm41_mga38ba62nj4y1ad7vl2.jpg",
+    "status": "complete",
+    "ammunition": {
+      "AP": "Unknown",
+      "HE": "Unknown"
+    },
+    "date_added": "22.04.2024"
+  },
+  "I52cmK7f4i864Adrb7yB": {
+    "name": "Type 65",
+    "descriptor": "37mm anti-aircraft gun",
+    "calibre": "37mm",
+    "description": "The Type 65 is a Chinese copy of the Soviet M1939, it is a twin 37mm AA gun developed during the late 1930's.",
+    "image": "type65_cp9gy146s3vs0rawohrn.jpg",
+    "status": "complete",
+    "ammunition": {
+      "AP": "4000m",
+      "HE": "4000m"
+    }
+  },
+  "803dbID6aQqX9UJccoZL": {
+    "name": "T-12",
+    "descriptor": "Smoothbore anti-tank gun",
+    "calibre": "100mm",
+    "description": "The T-12 is a Soviet 100mm anti-tank gun developed in the 1950's, it was revolutionary in the fact it was the first anti-tank gun to adopt a smoothbore barrel, as well as introducing modern armour piercing rounds like APFSDS.",
+    "image": "t12_o0h2el27n819eokei4ok.jpg",
+    "status": "complete",
+    "ammunition": {
+      "APFSDS": "3000m",
+      "HEAT": "3000m",
+      "HE": "3000m",
+      "ATGM": "5000m"
+    },
+    "date_added": "23.04.2024"
+  },
+  "fOgG6h2J466IR3jsUz5C": {
+    "name": "D-74",
+    "descriptor": "122mm Field Gun",
+    "calibre": "122mm",
+    "description": "The D-74 was produced from 1955 onwards and served the USSR and many of it's allies. It entered service around the same time of the 130mm M-46, the greater range of the 130mm meant that it outlasted the D-74.",
+    "image": "d74_50y3zo0aet4lcq1btsvv.jpg",
+    "status": "complete",
+    "ammunition": {
+      "AP": "1000m (direct)",
+      "HE": "24km",
+      "Smoke": "24km"
+    },
+    "date_added": "30.04.2024"
+  }
+}

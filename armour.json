@@ -1,0 +1,131 @@
+{
+  "3zwBzW-8aIa1orPfTVmZ": {
+    "description": "TUSK was designed for use in Iraq due to the use of RPG’s and mines. The kit was designed to be fitted in the field rather than needing to be fitted in a depot. The TUSK kit consists of bar armour on the rear, ERA down the sides, an RWS, a loaders gun shield and a tank telephone for infantry.",
+    "images": {
+      "tusk_Db8VprBILF3Ke8fhrBee.jpg": "tusk2",
+      "tusk_h-dwTNzOCSS-ZSsUSHE3.jpg": "tusk1"
+    },
+    "name": "TUSK"
+  },
+  "5QBblMqPXLFuMzT5nj7-": {
+    "description": "Nozh (Ukrainian-Knife) is a Ukrainian produced ERA, designed by Kharkiv MDB. Nozh modules are fitted to most modern Ukrainian tanks and can be fitted to other armoured vehicles, Nozh gets its name from the way the ERA uses a pinpoint blast against the projectile, minimising the chain reaction effect of Kontakt-1. According to the Morozov design bureau it increases survivability by up to 200%.",
+    "images": {
+      "nozh_7CjPBelbA8A5RmPf83xe.jpg": "nozh",
+      "nozh_Jkvkixlc4_1HgGwX2exu.jpg": "nozh3",
+      "nozh_sgughH34eI1HmDdibCTX.jpg": "nozh2"
+    },
+    "name": "Nozh"
+  },
+  "5_GeohwkiqjYyd000Nvi": {
+    "description": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
+    "images": {
+      "kontakt-1_9VfYkQK5o6TGIXhUT724.jpg": "kontakt-12",
+      "kontakt-1_QVHY06BvmbygIvfwyBmT.jpg": "kontakt-13",
+      "kontakt-1_Wd0g4lImy54mXtq65OYo.jpg": "k16",
+      "kontakt-1_dZ9QHQDDupT9ZcOQsEk5.jpg": "kontakt-1",
+      "kontakt-1_n2EUoLN_8D69zSl1KYgl.jpg": "k15",
+      "kontakt-1_xTXZ8jRxUpJfqapSOIpv.jpg": "kontakt-14"
+    },
+    "name": "Kontakt-1"
+  },
+  "8qG5od-m2xZHSp9KBQyd": {
+    "description": "Relikt is the latest in service ERA of the Russian Army, it is a 3rd generation ERA, it reportedly doubles protection when compared to Kontakt-5, it is fitted to the T-80BVM and T-90M.",
+    "images": {
+      "relikt_0o0_cx9L0aL9SP2w3Zpy.jpg": "relikt",
+      "relikt_2vd8fKKrTeTz776O3JAI.jpg": "relikt3"
+    },
+    "name": "Relikt"
+  },
+  "9Zl4n6HVyvSoMB0oA-eb": {
+    "description": "Shtora-1 is an electro optical active protection system, it disrupts the target tracking laser in ATGM’s which in turn directs the ATGM off target due to loss of tracking. \nIt has 4 components listed below\n1.Smoke grenade dischargers\n2.Laser warning system, the 2 prominent objects above the main gun\n3.A control system\n4.2 infrared lights, the 2 prominent ‘eyes’ on the front of the turret. They continuously emit pulsed infrared jamming signals when an ATGM launch has been detected.",
+    "images": {
+      "shtora-1_6m2EeMbqu0YLHjce713o.jpg": "shtora-13",
+      "shtora-1_R96Z1BXawOsi0zukA-mv.jpg": "shtora1rf",
+      "shtora-1_T_mK_WYdBI48IPWZ5TQ8.jpg": "shtora-1"
+    },
+    "name": "Shtora-1"
+  },
+  "BBmUbmF4I5UNTPnPsSXN": {
+    "description": "Laser warning system (generic) A laser warning system (LWS) is a system fitted to MBT’s and other AFV’s which alert the crew, usually the commander of a laser emission directed towards their vehicle, in turn and system dependant the crew may be given the option to fire smoke grenades, find the direction of the laser or switch on the laser dazzlers to counter ATGM’s, the latter applying to the Russian Shtora-1 and Chinese LSDW systems. They often come in different shapes and sizes but typically always have a glass section for the detection of laser radiation.",
+    "images": {
+      "lws_90Ecr66L43F6BLAObtPq.jpg": "lwc"
+    },
+    "name": "LWS"
+  },
+  "Lg_voMUuy2WHBBhxoskB": {
+    "description": "4S24 Soft bag ERA is a Russian ERA best suited for kinetic energy projectiles, filled with egg carton shaped objects and explosive filler, it has been seen fitted to the T-72B3 Obr.2016, T-72B3 Obr.2022, T-80BVM, T-90M and BMP-T. As well as other field modifications seen on at least one BMP-3.",
+    "images": {
+      "4s24_1v0QTnBl1M87MLyu11H1.jpg": "4s242",
+      "4s24_Rm32x_65s3D23gWZcvK9.jpg": "4s24",
+      "4s24_o5Pe-Eaoo6NcE5YszaQx.jpg": "4s243"
+    },
+    "name": "4S24"
+  },
+  "fA8LPcAgu6HhGpC70Rza": {
+    "description": "Drozd is a Soviet hard kill active protection system, designed to defeat ATGM’s and RPG’s, it is considered the worlds first hard kill APS. \nDrozd uses 24.5 GHz Doppler radar to detect incoming rounds travelling between 70 and 700 m/s (to avoid engaging small arms or other faster projectiles). Its computer determines when to fire one of the 4 107 mm slugs. When the incoming round is at 7 m range, the Drozd fragmentation warhead detonates, spreading slugs to destroy the incoming round. It was deemed 80% effective in the Soviet-Afghan war, but collateral damage was extremely high amongst dismounts.",
+    "images": {
+      "drozd_N7y5CwOeUG1oUIv5j3ig.jpg": "drozd",
+      "drozd_YKOq9D_1Rc8Bo883nybC.jpg": "drozd2"
+    },
+    "name": "Drozd"
+  },
+  "fi1qmxeatFSB13i5OdIQ": {
+    "description": "4S22 ERA (T-72B3 Obr.2016, T-72B3 Obr.2022 and T-80BVM).4S22 is an ERA element fitted to the latest modernisation of Russian tanks, typically in the form of boxes covering the turret sides, the ERA will reduce shaped charge effectiveness by up to 80% and AP projectiles by up to 60%. The blocks are resistant of damage from small arms and heavy weapons up to 30mm.",
+    "images": {
+      "4s22_TESn07zgZZDaKEFhXR5Y.jpg": "4s221"
+    },
+    "name": "4S22"
+  },
+  "jjHKaeidQZSZbQV3SpBD": {
+    "description": "SABBLIR ERA is a Spanish ERA fitted on the ASCOD IFV and Leopardo 2E, it is easily recognisable by the distinctive crosses on the plates. The ERA is suitable for chemical energy munitions like RPG’s.",
+    "images": {
+      "sabblir_A3Mf7SPlM03_A1cwc7PE.jpg": "sabblir"
+    },
+    "name": "SABBLIR"
+  },
+  "n8yLPrbJPRKpPVlRWuTr": {
+    "description": "Explosive Reactive Armour (ERA) is made out of a slate of plastic explosive sandwiched between two plates, called the reactive or dynamic elements. On attack by a penetrating weapon, the explosive detonates, driving the plates apart to damage the projectile. Against a shaped charge, the projected plates disrupt the penetrator, effectively providing a greater path-length of material to be penetrated. Against a kinetic energy penetrator, the plates serve to deflect and damage/deform the penetrator rod to minimise penetration.",
+    "images": {
+      "era_1C09-_mxT5vfKXFa8FnU.jpg": "era1"
+    },
+    "name": "ERA"
+  },
+  "pUwF4VPfspoFtSeJhtYa": {
+    "description": "Bar, or slat, armour is used to protect vehicles from attacks by HEAT rounds used predominantlt by RPG and ATGMs. It works by trapping the projectile in the gaps of the armour, thus removing the energy required for the fuze to detonate against the side of the vehicle. Modern ATGMs can inbuilt capabilities to counter this, such as double stage fuses.  ",
+    "images": {
+      "bar armour_C9TT7bdyzGyU81EZ8cb8.jpg": "bararmour3",
+      "bar armour_N_F4MTxTLap4zs-gId_f.jpg": "bararmour2",
+      "bar armour_jhuC0C1jqmHMNXzC54h9.jpg": "bararmour",
+      "bar armour_y80MzlSIe8oGM2d2meiP.jpg": "bararmour4"
+    },
+    "name": "Bar armour"
+  },
+  "tXQOcSdOdZaseDEUy1-3": {
+    "description": "Monolith (also unofficially called Malachit) is the name of the ERA fitted to the T-14 Armata series, not much is known about Monolith and there is little to no information in open source, so for now this page is awaiting update when the information is public.",
+    "images": {
+      "monolith era_G5v6ADmqnD89obfpcaG3.jpg": "monolith"
+    },
+    "name": "Monolith ERA"
+  },
+  "xiIcBjkPrqqL3H1wT3eu": {
+    "description": "Composite armour is a type of armour, commonly on tanks, it is composed by different materials including but not limited to metal, plastics, rubbers, air and ceramics. This makes the armour lighter than an all metal equivalent, but gives a significant increase in resistance to penetration, it was primarily developed to counter HEAT munitions. It was first tested on the US T95 prototype, the first full production tank using composite armour was the Soviet T-64 series.",
+    "images": {
+      "composite_13UU4aZokMKm0VaHb3ld.jpg": "comp1",
+      "composite_93VNHEyi3C44LK4nhht6.jpg": "comp4",
+      "composite_HvgP9K3CLD51oLVwyiNK.jpg": "comp2",
+      "composite_hX5zTjXhN4tCGnskA152.jpg": "comp3"
+    },
+    "name": "Composite"
+  },
+  "zfbA6NwThqpMD85wPMfF": {
+    "description": "Kontakt-5 is a Soviet second generation explosive reactive armour, first introduced on the T-80U, it is the first ERA capable of defeating APFSDS rounds. Kontakt-5 is made up of bricks of PE between 2 metal plates, it is supposed to channel the incoming round through the Kontakt-5 blocks, hence why they’re mounted in such a way, which then leads to blasts hitting the projectile in the side, which in theory will cut the penetrator rod in to pieces from the blast. It is fitted to most modern Russian tanks from T-80U (1985) onwards.",
+    "images": {
+      "kontakt-5_0CjzUHS2SPjC4y8jYt4e.jpg": "k52",
+      "kontakt-5_B5845ExYAd20V2NNTLMC.jpg": "k54",
+      "kontakt-5_Q-Ddhf7o17oWTLWx5c68.jpg": "k55",
+      "kontakt-5_sAcQ_6A3OyJOR39FLnd0.jpg": "k53",
+      "kontakt-5_wZpr1op279zbeZ67CyOf.jpg": "k51"
+    },
+    "name": "Kontakt-5"
+  }
+}
